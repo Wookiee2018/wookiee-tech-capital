@@ -1,7 +1,5 @@
-# Wookiee Tech Capital — Desk
+# Wookiee Tech Capital
 
-Paper / planning command center for a $100,000 aggressive tech book started 23 September 2026.
+Live cloud desk: https://wookiee-tech-capital.netlify.app
 
-Open `index.html` for the desk UI.
-
-Not a broker. Not financial advice. 40% is an ambition, not expected value.
+Paper book. Not a broker. Updates are published by rewriting `desk.json` and redeploying to Netlify.
