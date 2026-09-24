@@ -2,76 +2,50 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>WOOKIEE TECH CAPITAL — Desk</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="theme-color" content="#07090d" />
+  <title>WOOKIEE TECH CAPITAL — Cloud Desk</title>
   <link rel="preconnect" href="https://fonts.googleapis.com" />
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
   <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&family=IBM+Plex+Sans:wght@400;500;600;700&display=swap" rel="stylesheet" />
   <style>
-    :root {
-      --bg: #07090d;
-      --panel: #0e131b;
-      --panel-2: #121821;
-      --line: #1c2633;
-      --text: #d7e0ea;
-      --muted: #7d8b9a;
-      --amber: #f0b429;
-      --cyan: #3ee0c5;
-      --red: #ff5d6c;
-      --green: #3ee07a;
-    }
-    * { box-sizing: border-box; margin: 0; padding: 0; }
-    html, body { background: var(--bg); color: var(--text); font-family: "IBM Plex Sans", sans-serif; }
-    body { min-height: 100vh; }
-    .mono { font-family: "IBM Plex Mono", monospace; }
-    header {
-      display: flex; justify-content: space-between; align-items: center;
-      padding: 18px 28px; border-bottom: 1px solid var(--line);
-      background: linear-gradient(180deg, #101720, #07090d);
-      position: sticky; top: 0; z-index: 10;
-    }
-    .brand { display: flex; gap: 14px; align-items: center; }
-    .mark {
-      width: 38px; height: 38px; border: 1px solid var(--amber);
-      display: grid; place-items: center; color: var(--amber);
-      font-family: "IBM Plex Mono", monospace; font-weight: 600;
-    }
-    .brand h1 { font-size: 15px; letter-spacing: 2px; font-weight: 600; }
-    .brand p { color: var(--muted); font-size: 11px; letter-spacing: 1.5px; text-transform: uppercase; }
-    .header-meta { display: flex; gap: 28px; align-items: center; font-size: 12px; }
-    .header-meta span { display: block; color: var(--muted); letter-spacing: 1px; text-transform: uppercase; font-size: 10px; }
-    .live { color: var(--cyan); }
-    .dot { width: 8px; height: 8px; border-radius: 50%; background: var(--cyan); display: inline-block; margin-right: 6px; animation: pulse 1.6s infinite; }
-    @keyframes pulse { 50% { opacity: .35; } }
-    .wrap { padding: 22px 28px 40px; display: grid; gap: 16px; }
-    .kpis { display: grid; grid-template-columns: repeat(5, 1fr); gap: 12px; }
-    .card { background: var(--panel); border: 1px solid var(--line); padding: 16px; }
-    .card h3 { color: var(--muted); font-size: 10px; letter-spacing: 1.6px; text-transform: uppercase; margin-bottom: 8px; }
-    .kpi { font-family: "IBM Plex Mono", monospace; font-size: 26px; font-weight: 500; }
-    .sub { margin-top: 6px; font-size: 12px; color: var(--muted); }
-    .pos { color: var(--green); } .neg { color: var(--red); } .warn { color: var(--amber); }
-    .grid { display: grid; grid-template-columns: 1.4fr 1fr; gap: 16px; }
-    .grid-3 { display: grid; grid-template-columns: 1.1fr .9fr 1fr; gap: 16px; }
-    table { width: 100%; border-collapse: collapse; font-size: 13px; }
-    th { text-align: left; color: var(--muted); font-size: 10px; letter-spacing: 1.2px; text-transform: uppercase; padding: 8px 6px; border-bottom: 1px solid var(--line); }
-    td { padding: 10px 6px; border-bottom: 1px solid #151c26; font-family: "IBM Plex Mono", monospace; font-size: 12px; }
-    .log { max-height: 420px; overflow: auto; }
-    .entry { padding: 12px 0; border-bottom: 1px solid #151c26; }
-    .entry time { color: var(--amber); font-family: "IBM Plex Mono", monospace; font-size: 11px; }
-    .entry h4 { font-size: 13px; margin: 4px 0 6px; }
-    .entry p { color: #b7c3cf; font-size: 13px; line-height: 1.5; }
-    .tag { display: inline-block; font-size: 10px; letter-spacing: 1px; padding: 2px 6px; border: 1px solid var(--line); color: var(--cyan); margin-right: 6px; }
-    .rules li { font-size: 13px; color: #c5d0da; line-height: 1.55; margin: 0 0 8px 16px; }
-    .next { display: grid; gap: 10px; }
-    .task { padding: 10px; background: var(--panel-2); border-left: 2px solid var(--amber); }
-    .task b { font-size: 12px; display: block; }
-    .task span { color: var(--muted); font-size: 12px; }
-    .disclaimer { font-size: 11px; color: var(--muted); line-height: 1.5; }
-    footer { padding: 0 28px 28px; color: var(--muted); font-size: 11px; }
-    @media (max-width: 1100px) {
-      .kpis, .grid, .grid-3 { grid-template-columns: 1fr; }
-      header { flex-direction: column; align-items: flex-start; gap: 12px; }
-    }
+    :root { --bg:#07090d; --panel:#0e131b; --panel-2:#121821; --line:#1c2633; --text:#d7e0ea; --muted:#7d8b9a; --amber:#f0b429; --cyan:#3ee0c5; --red:#ff5d6c; --green:#3ee07a; }
+    * { box-sizing:border-box; margin:0; padding:0; }
+    html, body { background:var(--bg); color:var(--text); font-family:"IBM Plex Sans",sans-serif; }
+    body { min-height:100vh; padding-bottom:env(safe-area-inset-bottom); }
+    .mono { font-family:"IBM Plex Mono",monospace; }
+    header { display:flex; justify-content:space-between; align-items:center; padding:16px 22px; border-bottom:1px solid var(--line); background:linear-gradient(180deg,#101720,#07090d); position:sticky; top:0; z-index:10; }
+    .brand { display:flex; gap:12px; align-items:center; }
+    .mark { width:36px; height:36px; border:1px solid var(--amber); display:grid; place-items:center; color:var(--amber); font-family:"IBM Plex Mono",monospace; font-weight:600; }
+    .brand h1 { font-size:14px; letter-spacing:2px; font-weight:600; }
+    .brand p { color:var(--muted); font-size:11px; letter-spacing:1.2px; text-transform:uppercase; }
+    .header-meta { display:flex; gap:22px; align-items:center; font-size:12px; }
+    .header-meta span { display:block; color:var(--muted); letter-spacing:1px; text-transform:uppercase; font-size:10px; }
+    .live { color:var(--cyan); }
+    .dot { width:8px; height:8px; border-radius:50%; background:var(--cyan); display:inline-block; margin-right:6px; animation:pulse 1.6s infinite; }
+    @keyframes pulse { 50% { opacity:.35; } }
+    .wrap { padding:18px 22px 36px; display:grid; gap:14px; }
+    .kpis { display:grid; grid-template-columns:repeat(5,1fr); gap:10px; }
+    .card { background:var(--panel); border:1px solid var(--line); padding:14px; }
+    .card h3 { color:var(--muted); font-size:10px; letter-spacing:1.6px; text-transform:uppercase; margin-bottom:8px; }
+    .kpi { font-family:"IBM Plex Mono",monospace; font-size:22px; font-weight:500; }
+    .sub { margin-top:6px; font-size:12px; color:var(--muted); }
+    .pos { color:var(--green); } .neg { color:var(--red); } .warn { color:var(--amber); }
+    .grid { display:grid; grid-template-columns:1.35fr 1fr; gap:14px; }
+    table { width:100%; border-collapse:collapse; }
+    th { text-align:left; color:var(--muted); font-size:10px; letter-spacing:1.2px; text-transform:uppercase; padding:8px 6px; border-bottom:1px solid var(--line); }
+    td { padding:9px 6px; border-bottom:1px solid #151c26; font-family:"IBM Plex Mono",monospace; font-size:12px; vertical-align:top; }
+    .entry { padding:12px 0; border-bottom:1px solid #151c26; }
+    .entry time { color:var(--amber); font-family:"IBM Plex Mono",monospace; font-size:11px; }
+    .entry h4 { font-size:13px; margin:4px 0 6px; }
+    .entry p { color:#b7c3cf; font-size:13px; line-height:1.5; }
+    .tag { display:inline-block; font-size:10px; letter-spacing:1px; padding:2px 6px; border:1px solid var(--line); color:var(--cyan); margin-right:6px; }
+    .disclaimer { font-size:11px; color:var(--muted); line-height:1.5; margin-top:10px; }
+    footer { padding:0 22px 28px; color:var(--muted); font-size:11px; }
+    .tv { height:72px; overflow:hidden; border:1px solid var(--line); background:#0b1016; }
+    @media (max-width:1100px) { .kpis, .grid { grid-template-columns:1fr 1fr; } header { flex-direction:column; align-items:flex-start; gap:12px; } }
+    @media (max-width:720px) { .kpis, .grid { grid-template-columns:1fr; } header { padding:14px 14px; } .wrap { padding:14px; } }
   </style>
 </head>
 <body>
@@ -80,69 +54,69 @@
       <div class="mark">W</div>
       <div>
         <h1>WOOKIEE TECH CAPITAL</h1>
-        <p>Mission ATLAS-40 · Paper command desk · Started 23 Sep 2026</p>
+        <p>Cloud desk · paper book · ATLAS-40</p>
       </div>
     </div>
     <div class="header-meta mono">
-      <div><span>Desk clock (Dubai)</span><div id="clock">--:--:--</div></div>
-      <div><span>Status</span><div class="live"><i class="dot"></i>PRE-DEPLOY / NIGHT OPS</div></div>
-      <div><span>Last desk write</span><div>23 Sep 2026 · 22:56 GST</div></div>
+      <div><span>Dubai</span><div id="clock">--:--:-- GST</div></div>
+      <div><span>Status</span><div class="live"><i class="dot"></i><span id="status">LOADING</span></div></div>
+      <div><span>Published</span><div id="published">—</div></div>
     </div>
   </header>
   <div class="wrap">
-    <section class="kpis">
-      <div class="card"><h3>NAV</h3><div class="kpi">$100,000</div><div class="sub">Starting capital · no trades filled</div></div>
-      <div class="card"><h3>Deployed</h3><div class="kpi">$0</div><div class="sub">Cash 100% · target 85–90% by 3 Oct</div></div>
-      <div class="card"><h3>Day P&amp;L</h3><div class="kpi">$0.00</div><div class="sub">Book not live in market yet</div></div>
-      <div class="card"><h3>Distance to 40%</h3><div class="kpi warn">$40,000</div><div class="sub">Target NAV $140,000 by 23 Sep 2027 — not a forecast</div></div>
-      <div class="card"><h3>Risk posture</h3><div class="kpi" style="color:var(--cyan)">DEFENSIVE</div><div class="sub">No leverage · staged entries · MU banned at $1,070</div></div>
+    <div class="tv">
+      <div class="tradingview-widget-container">
+        <div class="tradingview-widget-container__widget"></div>
+        <script type="text/javascript" src="https://s3.tradingview.com/external-embedding/embed-widget-ticker-tape.js" async>
+        {"symbols":[{"proName":"FOREXCOM:SPXUSD","title":"SPX"},{"proName":"FOREXCOM:NSXUSD","title":"NDX"},{"proName":"NASDAQ:NVDA","title":"NVDA"},{"proName":"NASDAQ:AVGO","title":"AVGO"},{"proName":"NYSE:TSM","title":"TSM"},{"proName":"NASDAQ:MSFT","title":"MSFT"},{"proName":"NASDAQ:GOOGL","title":"GOOGL"},{"proName":"NASDAQ:PLTR","title":"PLTR"},{"proName":"BITSTAMP:BTCUSD","title":"BTC"}],"showSymbolLogo":true,"colorTheme":"dark","isTransparent":true,"displayMode":"adaptive","locale":"en"}
+        </script>
+      </div>
+    </div>
+    <section class="kpis" id="kpis"></section>
+    <section class="grid">
+      <div class="card">
+        <h3>Book</h3>
+        <table><thead><tr><th>Name</th><th>Target</th><th>Filled</th><th>Tape</th><th>Status</th></tr></thead><tbody id="book"></tbody></table>
+      </div>
+      <div class="card">
+        <h3>Yahoo last print</h3>
+        <table><thead><tr><th>Asset</th><th>Last</th><th>%</th></tr></thead><tbody id="tape"></tbody></table>
+      </div>
     </section>
     <section class="grid">
       <div class="card">
-        <h3>Intended book — not yet filled</h3>
-        <table>
-          <thead><tr><th>Sleeve / ticker</th><th>Target $</th><th>Weight</th><th>Last tape</th><th>Action</th></tr></thead>
-          <tbody>
-            <tr><td>NVDA</td><td>10,000</td><td>10%</td><td>~$225.6</td><td>LIMIT Thu</td></tr>
-            <tr><td>TSM</td><td>7,000</td><td>7%</td><td>~$446</td><td>LIMIT Thu</td></tr>
-            <tr><td>AVGO</td><td>7,000</td><td>7%</td><td>~$355</td><td>LIMIT Thu</td></tr>
-            <tr><td>MSFT</td><td>6,000</td><td>6%</td><td>~$500</td><td>Tranche 2</td></tr>
-            <tr><td>GOOGL</td><td>5,000</td><td>5%</td><td>~$339</td><td>Tranche 2</td></tr>
-            <tr><td>PLTR</td><td>4,000</td><td>4%</td><td>~$191</td><td>Satellite only</td></tr>
-            <tr><td>BTC</td><td>4,000</td><td>4%</td><td>~$84,200</td><td>Small first slice</td></tr>
-            <tr><td>SGOV / T-bills</td><td>15,000</td><td>15%</td><td>par</td><td>PARK first</td></tr>
-            <tr><td>Dry powder cash</td><td>42,000</td><td>42%</td><td>—</td><td>Hold for dips</td></tr>
-          </tbody>
-        </table>
+        <h3>Working tickets</h3>
+        <table><thead><tr><th>ID</th><th>Ticket</th><th>Type</th></tr></thead><tbody id="tickets"></tbody></table>
       </div>
       <div class="card">
-        <h3>Market tape — 23 Sep 2026 session</h3>
-        <table>
-          <thead><tr><th>Asset</th><th>Last</th><th>Session</th></tr></thead>
-          <tbody>
-            <tr><td>S&amp;P 500</td><td>7,715</td><td class="neg">~-0.6%</td></tr>
-            <tr><td>Nasdaq-100</td><td>30,450</td><td class="neg">~-0.9%</td></tr>
-            <tr><td>NVDA</td><td>225.57</td><td class="neg">~-1.4%</td></tr>
-            <tr><td>AVGO</td><td>355.26</td><td class="neg">~-2.6%</td></tr>
-            <tr><td>TSM</td><td>446</td><td class="neg">~-1.3%</td></tr>
-            <tr><td>MSFT</td><td>500.15</td><td class="pos">+0.4%</td></tr>
-            <tr><td>GOOGL</td><td>338.66</td><td class="neg">~-3.6%</td></tr>
-            <tr><td>PLTR</td><td>190.7</td><td class="pos">+3.1%</td></tr>
-            <tr><td>BTC</td><td>84,200</td><td class="neg">~-2.3%</td></tr>
-          </tbody>
-        </table>
+        <h3>Options blotter</h3>
+        <table><thead><tr><th>ID</th><th>Structure</th><th>Net</th><th>Max loss</th></tr></thead><tbody id="opts"></tbody></table>
       </div>
     </section>
     <section class="card">
-      <h3>Hourly ops log</h3>
-      <div class="entry"><time>23 SEP 22:56 GST · H00 DESK OPEN</time><h4>Platform stood up. Capital idle on purpose.</h4><p>$100,000 is cash. No market orders tonight. Thursday: park $15k T-bills, work NVDA/TSM/AVGO limits.</p></div>
+      <h3>Ops log</h3>
+      <div id="log"></div>
+      <p class="disclaimer">Paper desk on Netlify — not your laptop, not a live broker. 40% is an ambition, not a forecast. Tape widget is live TradingView. Tables are the last stamp Grok published from Yahoo v8.</p>
     </section>
   </div>
-  <footer class="mono">WOOKIEE TECH CAPITAL · ATLAS-40 · v0.1</footer>
+  <footer class="mono">WOOKIEE TECH CAPITAL · ATLAS-40 · paper book · siteId 8ad4fc65-bca6-46eb-acaf-31034950e990</footer>
   <script>
-    const el = document.getElementById("clock");
-    const tick = () => { el.textContent = new Date().toLocaleTimeString("en-GB", { hour12: false, timeZone: "Asia/Dubai" }) + " GST"; };
+    const money = n => n.toLocaleString("en-US", {style:"currency", currency:"USD", maximumFractionDigits:2});
+    const px = n => Number(n).toLocaleString("en-US", {maximumFractionDigits:3});
+    const cls = n => n > 0 ? "pos" : n < 0 ? "neg" : "";
+    const el = id => document.getElementById(id);
+    const tick = () => { el("clock").textContent = new Date().toLocaleTimeString("en-GB", {hour12:false, timeZone:"Asia/Dubai"}) + " GST"; };
     tick(); setInterval(tick, 1000);
+    fetch("desk.json?t=" + Date.now()).then(r => r.json()).then(d => {
+      el("status").textContent = d.status || "CLOUD LIVE";
+      el("published").textContent = (d.updated || "").replace("T"," ").replace("+04:00"," GST");
+      el("kpis").innerHTML = `<div class="card"><h3>NAV</h3><div class="kpi">${money(d.nav)}</div><div class="sub">Start $100,000 · inception ${d.inception_pnl>=0?"+":""}${money(d.inception_pnl)}</div></div><div class="card"><h3>Deployed</h3><div class="kpi">${money(d.deployed)}</div><div class="sub">Cash ${money(d.cash)} · CSP reserve $4,700</div></div><div class="card"><h3>Day P&L</h3><div class="kpi ${cls(d.day_pnl)}">${d.day_pnl>=0?"+":""}${money(d.day_pnl)}</div><div class="sub">Marked vs Thursday open stamp</div></div><div class="card"><h3>Ambition</h3><div class="kpi warn">$140,000</div><div class="sub">12-month target is not a forecast</div></div><div class="card"><h3>Risk</h3><div class="kpi" style="color:var(--amber);font-size:15px;line-height:1.25">${d.risk}</div><div class="sub">No leverage month 1 · no MU chase</div></div>`;
+      el("book").innerHTML = (d.book||[]).map(b => `<tr><td>${b.ticker}<br><span style="color:var(--muted)">${b.name}</span></td><td>${money(b.target)}</td><td>${money(b.filled)}</td><td>${px(b.px)}</td><td>${b.status}</td></tr>`).join("");
+      el("tape").innerHTML = (d.tape||[]).map(t => `<tr><td>${t.s}</td><td>${px(t.px)}</td><td class="${cls(t.chg)}">${t.chg>0?"+":""}${t.chg}%</td></tr>`).join("");
+      el("tickets").innerHTML = (d.tickets||[]).map(t => `<tr><td>${t.id}</td><td>${t.side} ${t.ticker} · ${money(t.notional)}</td><td>${t.type}<br><span style="color:var(--muted)">${t.reason}</span></td></tr>`).join("");
+      el("opts").innerHTML = (d.options||[]).map(o => `<tr><td>${o.id}</td><td>${o.structure}<br><span style="color:var(--muted)">${o.legs}</span></td><td class="${cls(o.net)}">${o.net}</td><td>${o.max_loss} · ${o.status}</td></tr>`).join("");
+      el("log").innerHTML = (d.log||[]).map(e => `<div class="entry"><time>${e.t}</time> <span class="tag">${e.tag}</span><h4>${e.title}</h4><p>${e.body}</p></div>`).join("");
+    }).catch(() => { el("status").textContent = "DESK.JSON MISSING"; });
   </script>
 </body>
 </html>
