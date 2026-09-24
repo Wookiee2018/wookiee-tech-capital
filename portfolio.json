@@ -1,9 +1,1 @@
-{
-  "fund": "Wookiee Tech Capital",
-  "asof": "2026-09-24T16:05:00+04:00",
-  "nav": 100019.02,
-  "cash": 61978.01,
-  "deployed": 38041.01,
-  "inception_pnl": 19.02,
-  "paper": true
-}
+{"fund":"Wookiee Tech Capital","asof":"2026-09-24T20:05:00+04:00","nav":99685.3,"cash":54978.01,"deployed":44707.29,"inception_pnl":-314.7,"paper":true}
