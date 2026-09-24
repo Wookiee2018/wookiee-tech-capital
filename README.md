@@ -1,5 +1,7 @@
 # Wookiee Tech Capital
 
-Live cloud desk: https://wookiee-tech-capital.netlify.app
+Paper desk. Starting capital $100,000 on 23 Sep 2026. ATLAS-40 is an ambition, not a forecast.
 
-Paper book. Not a broker. Updates are published by rewriting `desk.json` and redeploying to Netlify.
+Canonical: https://wookiee-tech-capital.netlify.app
+
+Book state lives in `desk.json`. The dashboard is `index.html`.
