@@ -1,1 +1,23 @@
-{"fetched":"2026-09-28T16:21:00+04:00","source":"Friday 25 Sep official cash close for equities (Yahoo/MarketWatch/TradeSmith). BTC-USD Yahoo live Monday 16:21 GST. Pre-market color noted in the log, not used for NAV.","quotes":[{"s":"SPX","px":7743.41,"chg":0.51},{"s":"NDX","px":30608.13,"chg":0.42},{"s":"NVDA","px":225.07,"chg":0.22},{"s":"AVGO","px":352.81,"chg":0.7},{"s":"TSM","px":450.61,"chg":-0.12},{"s":"MSFT","px":516.17,"chg":3.66},{"s":"GOOGL","px":343.92,"chg":0.46},{"s":"PLTR","px":189.67,"chg":-1.52},{"s":"BTC","px":83341.15,"chg":-1.23},{"s":"AMZN","px":249.67,"chg":0.12},{"s":"ORCL","px":137.1,"chg":-1.75},{"s":"IBIT","px":47.57,"chg":-0.5},{"s":"QQQ","px":744.5,"chg":0.46},{"s":"SPY","px":771.35,"chg":0.54},{"s":"SGOV","px":100.66,"chg":0.04},{"s":"MU","px":1082.28,"chg":0.16},{"s":"APP","px":312.47,"chg":0.0}]}
+{
+  "fetched": "2026-09-28T17:25:00+04:00",
+  "source": "Friday 25 Sep official cash close for equities (Yahoo/MarketWatch/TradeSmith). BTC-USD Yahoo live Monday 17:25 GST. Pre-market color noted in the log, not used for NAV.",
+  "quotes": [
+    {"s": "SPX", "px": 7743.41, "chg": 0.51},
+    {"s": "NDX", "px": 30608.14, "chg": 0.42},
+    {"s": "NVDA", "px": 225.07, "chg": 0.22},
+    {"s": "AVGO", "px": 352.81, "chg": 0.7},
+    {"s": "TSM", "px": 450.61, "chg": -0.12},
+    {"s": "MSFT", "px": 516.17, "chg": 3.66},
+    {"s": "GOOGL", "px": 343.92, "chg": 0.46},
+    {"s": "PLTR", "px": 189.67, "chg": -1.52},
+    {"s": "BTC", "px": 83391.99, "chg": -1.92},
+    {"s": "AMZN", "px": 249.67, "chg": 0.12},
+    {"s": "ORCL", "px": 137.1, "chg": -1.75},
+    {"s": "IBIT", "px": 47.57, "chg": -0.5},
+    {"s": "QQQ", "px": 744.5, "chg": 0.46},
+    {"s": "SPY", "px": 771.35, "chg": 0.54},
+    {"s": "SGOV", "px": 100.66, "chg": 0.04},
+    {"s": "MU", "px": 1082.28, "chg": 0.16},
+    {"s": "APP", "px": 312.47, "chg": 0.0}
+  ]
+}
