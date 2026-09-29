@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-29T16:25:00+04:00",
-  "source": "Yahoo Finance official close Monday 28 Sep 16:00 ET plus Tuesday 29 Sep ~08:19 ET premarket and live BTC-USD 12:18 UTC / 16:18 GST.",
+  "fetched": "2026-09-29T17:25:00+04:00",
+  "source": "Yahoo Finance v8 official close Monday 28 Sep 16:00 ET plus Tuesday 29 Sep ~09:25 ET premarket (fulldayPrice) and live BTC-USD.",
   "quotes": [
     {"s": "SPX", "px": 7683.69, "chg": -0.77},
     {"s": "NDX", "px": 30276.81, "chg": -1.08},
@@ -10,7 +10,7 @@
     {"s": "MSFT", "px": 509.22, "chg": -1.35},
     {"s": "GOOGL", "px": 342.75, "chg": -0.34},
     {"s": "PLTR", "px": 187.48, "chg": -1.15},
-    {"s": "BTC", "px": 84384.99, "chg": 0.99},
+    {"s": "BTC", "px": 84422.41, "chg": 0.95},
     {"s": "AMZN", "px": 246.15, "chg": -1.41},
     {"s": "ORCL", "px": 132.60, "chg": -3.28},
     {"s": "IBIT", "px": 47.21, "chg": -0.76},
@@ -21,17 +21,18 @@
     {"s": "APP", "px": 308.24, "chg": -0.81}
   ],
   "premarket": [
-    {"s": "NVDA", "px": 230.65, "chg": 0.78},
-    {"s": "AVGO", "px": 350.77, "chg": 0.34},
-    {"s": "TSM", "px": 451.78, "chg": -0.24},
-    {"s": "MSFT", "px": 509.26, "chg": 0.01},
-    {"s": "GOOGL", "px": 342.46, "chg": -0.08},
-    {"s": "PLTR", "px": 188.14, "chg": 0.35},
-    {"s": "AMZN", "px": 246.77, "chg": 0.25},
-    {"s": "ORCL", "px": 132.95, "chg": 0.26},
-    {"s": "IBIT", "px": 47.78, "chg": 1.21},
-    {"s": "MU", "px": 1070.77, "chg": 1.59},
-    {"s": "QQQ", "px": 739.95, "chg": 0.46},
-    {"s": "SPY", "px": 767.47, "chg": 0.25}
+    {"s": "NVDA", "px": 230.65, "chg": 0.76},
+    {"s": "AVGO", "px": 355.68, "chg": 1.75},
+    {"s": "TSM", "px": 453.75, "chg": 0.20},
+    {"s": "MSFT", "px": 507.69, "chg": -0.31},
+    {"s": "GOOGL", "px": 342.11, "chg": -0.19},
+    {"s": "PLTR", "px": 187.52, "chg": 0.02},
+    {"s": "AMZN", "px": 246.65, "chg": 0.20},
+    {"s": "ORCL", "px": 132.57, "chg": -0.03},
+    {"s": "IBIT", "px": 47.79, "chg": 1.23},
+    {"s": "MU", "px": 1071.61, "chg": 1.68},
+    {"s": "QQQ", "px": 739.35, "chg": 0.38},
+    {"s": "SPY", "px": 766.63, "chg": 0.14},
+    {"s": "SGOV", "px": 100.673, "chg": 0.01}
   ]
 }
