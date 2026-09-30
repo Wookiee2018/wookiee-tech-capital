@@ -1,6 +1,6 @@
 {
-  "fetched": "2026-09-30T16:22:00+04:00",
-  "source": "Yahoo Finance v8 regularMarketPrice Wednesday 30 Sep ~08:22 ET / 16:22 GST (US cash pre-open; last completed session Tue 29 Sep).",
+  "fetched": "2026-09-30T17:21:00+04:00",
+  "source": "Yahoo Finance v8 regularMarketPrice Wednesday 30 Sep 09:21 ET / 17:21 GST (US cash opening; last completed equity session Tue 29 Sep). BTC-USD is live.",
   "quotes": [
     {"s": "SPX", "px": 7670.84, "chg": -0.17},
     {"s": "NDX", "px": 30339.332, "chg": 0.21},
@@ -10,7 +10,7 @@
     {"s": "MSFT", "px": 508.96, "chg": -0.05},
     {"s": "GOOGL", "px": 340.92, "chg": -0.53},
     {"s": "PLTR", "px": 186.97, "chg": -0.27},
-    {"s": "BTC", "px": 83817.00, "chg": 0.23},
+    {"s": "BTC", "px": 85268.48, "chg": 1.28},
     {"s": "AMZN", "px": 246.67, "chg": 0.21},
     {"s": "ORCL", "px": 137.79, "chg": 3.91},
     {"s": "IBIT", "px": 47.33, "chg": 0.25},
