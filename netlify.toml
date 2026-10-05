@@ -1,0 +1,3 @@
+[build]
+  publish = "."
+  command = "mkdir -p public dist && cp -f index.html desk.json quotes.json portfolio.json README.md public/ && cp -f index.html desk.json quotes.json portfolio.json README.md dist/"
