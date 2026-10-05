@@ -5,87 +5,87 @@
   "url": "https://wookiee-tech-capital.netlify.app",
   "github": "https://github.com/Wookiee2018/wookiee-tech-capital",
   "inception": "2026-09-23T22:56:00+04:00",
-  "updated": "2026-10-05T20:21:00+04:00",
+  "updated": "2026-10-05T21:14:00+04:00",
   "timezone": "Asia/Dubai",
-  "status": "CLOUD LIVE / MONDAY MIDDAY \u2014 NO TRADE. TSM 443 STILL WORKING. NO MU. NO LEVERAGE.",
-  "nav": 100949.02,
+  "status": "CLOUD LIVE / MONDAY 13:14 ET \u2014 NO TRADE. TSM 443 STILL WORKING. NO MU. NO LEVERAGE.",
+  "nav": 101085.05,
   "cash": 50978.01,
-  "deployed": 49971.01,
-  "day_pnl": -75.11,
-  "inception_pnl": 949.02,
+  "deployed": 50107.04,
+  "day_pnl": 136.03,
+  "inception_pnl": 1085.05,
   "target_nav": 140000,
   "target_is_forecast": false,
   "risk": "AGGRESSIVE CONCENTRATION \u2014 my call. No leverage month 1. No MU chase near 1070.",
   "tape": [
     {
       "s": "SPX",
-      "px": 7758.46,
-      "chg": 0.46
+      "px": 7770.32,
+      "chg": 0.62
     },
     {
       "s": "NDX",
-      "px": 30956.82,
-      "chg": 0.48
+      "px": 31014.93,
+      "chg": 0.67
     },
     {
       "s": "NVDA",
-      "px": 236.205,
-      "chg": 0.96
+      "px": 237.31,
+      "chg": 1.44
     },
     {
       "s": "AVGO",
-      "px": 360.86,
-      "chg": 1.61
+      "px": 362.97,
+      "chg": 2.2
     },
     {
       "s": "TSM",
-      "px": 484.14,
-      "chg": 2.4
+      "px": 484.33,
+      "chg": 2.44
     },
     {
       "s": "MSFT",
-      "px": 524.51,
-      "chg": 1.35
+      "px": 525.51,
+      "chg": 1.54
     },
     {
       "s": "GOOGL",
-      "px": 345.01,
-      "chg": 0.44
+      "px": 345.96,
+      "chg": 0.71
     },
     {
       "s": "PLTR",
-      "px": 187.79,
-      "chg": -0.51
+      "px": 188.29,
+      "chg": -0.24
     },
     {
       "s": "BTC",
-      "px": 85097.84,
-      "chg": -1.64
+      "px": 85205.77,
+      "chg": -1.46
     },
     {
       "s": "AMZN",
-      "px": 251.64,
-      "chg": 0.05
-    },
-    {
-      "s": "ORCL",
-      "px": 143.22,
+      "px": 253.16,
       "chg": 0.65
     },
     {
+      "s": "ORCL",
+      "px": 143.42,
+      "chg": 0.72
+    },
+    {
       "s": "IBIT",
-      "px": 48.15,
-      "chg": 0.88
+      "px": 48.27,
+      "chg": 1.14
     },
     {
       "s": "QQQ",
-      "px": 752.87,
-      "chg": 0.44
+      "px": 754.45,
+      "chg": 0.65
     },
     {
       "s": "SPY",
-      "px": 772.91,
-      "chg": 0.42
+      "px": 774.19,
+      "chg": 0.59
     },
     {
       "s": "SGOV",
@@ -94,8 +94,8 @@
     },
     {
       "s": "MU",
-      "px": 1062.68,
-      "chg": -1.14
+      "px": 1066.33,
+      "chg": -0.8
     },
     {
       "s": "APP",
@@ -110,71 +110,71 @@
       "target": 15000,
       "filled": 15000.0,
       "px": 100.445,
-      "status": "FILLED \u2014 Mon 100.445 flat at 12:21 ET. Held. Ex-distribution still not booked into cash."
+      "status": "FILLED \u2014 Mon 100.445 flat, carried. Held. Ex-distribution still not booked into cash."
     },
     {
       "ticker": "NVDA",
       "name": "Nvidia",
       "target": 12000,
       "filled": 5999.99,
-      "px": 236.205,
-      "status": "PARTIAL 6k / 12k \u2014 Mon 236.205 (+0.96) at 12:21 ET. Still through 231.65 spread breakeven. Remainder stays the Oct16 225/240 spread. Not lifting stock."
+      "px": 237.31,
+      "status": "PARTIAL 6k / 12k \u2014 Mon 237.31 (+1.44) at 13:14 ET. Still through 231.65 spread breakeven. Remainder stays the Oct16 225/240 spread. Not lifting stock."
     },
     {
       "ticker": "AVGO",
       "name": "Broadcom",
       "target": 8000,
       "filled": 7999.99,
-      "px": 360.86,
-      "status": "FULL \u2014 Mon 360.86 (+1.61) at 12:21 ET, through 350.38 avg. Off the 11:26 print. No add. Sleeve stays full."
+      "px": 362.97,
+      "status": "FULL \u2014 Mon 362.97 (+2.20) at 13:12 ET, through 350.38 avg. Off the 12:21 print. No add. Sleeve stays full."
     },
     {
       "ticker": "GOOGL",
       "name": "Alphabet",
       "target": 7000,
       "filled": 7000.01,
-      "px": 345.01,
-      "status": "FULL \u2014 Mon 345.01 (+0.44) at 12:21 ET, through 338.72 avg. Hold. No chase add."
+      "px": 345.96,
+      "status": "FULL \u2014 Mon 345.96 (+0.71) at 13:14 ET, through 338.72 avg. Hold. No chase add."
     },
     {
       "ticker": "TSM",
       "name": "TSMC ADR",
       "target": 8000,
       "filled": 0,
-      "px": 484.14,
-      "status": "LIMIT 443 STILL OPEN \u2014 Mon 484.14 (+2.40) at 12:21 ET. About 41 handles away. Will not pay up. No amend. No cancel."
+      "px": 484.33,
+      "status": "LIMIT 443 STILL OPEN \u2014 Mon 484.33 (+2.44) at 13:10 ET. About 41 handles away. Will not pay up. No amend. No cancel."
     },
     {
       "ticker": "MSFT",
       "name": "Microsoft",
       "target": 5000,
       "filled": 5000,
-      "px": 524.51,
-      "status": "FILLED @ 497.50 \u2014 Mon 524.51 (+1.35) at 12:21 ET. Still the winner vs cost. No add."
+      "px": 525.51,
+      "status": "FILLED @ 497.50 \u2014 Mon 525.51 (+1.54) at 13:12 ET. Still the winner vs cost. No add."
     },
     {
       "ticker": "AMZN",
       "name": "Amazon",
       "target": 4000,
       "filled": 4000,
-      "px": 251.64,
-      "status": "FILLED 16.0966 sh @ 248.50 \u2014 Mon 251.64 (+0.05) at 12:21 ET. Still green vs cost. No add."
+      "px": 253.16,
+      "status": "FILLED 16.0966 sh @ 248.50 \u2014 Mon 253.16 (+0.65) at 13:14 ET. Still green vs cost. No add."
     },
     {
       "ticker": "ORCL",
       "name": "Oracle",
       "target": 3000,
       "filled": 3000,
-      "px": 143.22,
-      "status": "FILLED 20.9059 sh @ 143.50 \u2014 Mon 143.22 (+0.65 vs Fri, under cost by 28c) at 12:21 ET. Hold, no add, no cut."
+      "px": 143.42,
+      "status": "FILLED 20.9059 sh @ 143.50 \u2014 Mon 143.42 (+0.72 vs Fri, under cost by 8c) at 13:14 ET. Hold, no add, no cut."
     },
     {
       "ticker": "IBIT",
       "name": "Bitcoin ETF",
       "target": 0,
       "filled": 0,
-      "px": 48.15,
-      "status": "STOCK OFF \u2014 Oct16 47 CSP still open. Mon 48.15 (+0.88) at 12:21 ET, still OTM. BTC 85098. Do not buy back."
+      "px": 48.27,
+      "status": "STOCK OFF \u2014 Oct16 47 CSP still open. Mon 48.27 (+1.14) at 13:13 ET, still OTM. BTC 85206. Do not buy back."
     },
     {
       "ticker": "CASH",
@@ -189,16 +189,16 @@
       "name": "Palantir",
       "target": 0,
       "filled": 0,
-      "px": 187.79,
-      "status": "NO TRADE \u2014 Mon 187.79 (-0.51) at 12:21 ET. A half-point dip is not a month-1 pullback seat."
+      "px": 188.29,
+      "status": "NO TRADE \u2014 Mon 188.29 (-0.24) at 13:14 ET. A quarter-point dip is not a month-1 pullback seat."
     },
     {
       "ticker": "MU",
       "name": "Micron",
       "target": 0,
       "filled": 0,
-      "px": 1062.68,
-      "status": "NO TRADE \u2014 standing rule, do not chase MU near 1070. Mon 1062.68 (-1.14). Still the ban zone."
+      "px": 1066.33,
+      "status": "NO TRADE \u2014 standing rule, do not chase MU near 1070. Mon 1066.33 (-0.80). Still the ban zone."
     },
     {
       "ticker": "APP",
@@ -206,7 +206,7 @@
       "target": 0,
       "filled": 0,
       "px": 283.14,
-      "status": "SCANNED \u2014 no seat. Mon 283.14 (+5.56) at 12:21 ET. Bounce is not our sleeve."
+      "status": "SCANNED \u2014 no seat. No fresh print this stamp. Carried 283.14 from 12:21 ET. Not our sleeve."
     },
     {
       "ticker": "OPT",
@@ -219,13 +219,13 @@
   ],
   "tickets": [
     {
-      "id": "T-269",
+      "id": "T-274",
       "side": "NO TRADE",
       "ticker": "session",
       "notional": 0,
       "type": "NO-TRADE",
-      "when": "5 Oct 12:21 ET / 20:21 GST",
-      "reason": "Monday midday. Indexes still green, TSM still 41 handles above 443. Working TSM 443 only. No lift, no amend, no cancel, no new names. Cash stays dry powder. No leverage month 1."
+      "when": "5 Oct 13:14 ET / 21:14 GST",
+      "reason": "Monday early afternoon. Indexes still green, NDX at a fresh high. TSM still 41 handles above 443. Working TSM 443 only. No lift, no amend, no cancel, no new names. Cash stays dry powder. No leverage month 1."
     },
     {
       "id": "T-228",
@@ -234,43 +234,43 @@
       "notional": 8000,
       "type": "LIMIT 443 STILL OPEN",
       "when": "working, GTC paper",
-      "reason": "Mon 484.14. Limit about 41 handles away. Not paying up into a +2.40% tape. No amend. No cancel."
+      "reason": "Mon 484.33. Limit about 41 handles away. Not paying up into a +2.44% tape. No amend. No cancel."
     },
     {
-      "id": "T-270",
+      "id": "T-275",
       "side": "NO TRADE",
       "ticker": "MU",
       "notional": 0,
       "type": "SCAN REJECT",
-      "when": "5 Oct 12:21 ET / 20:21 GST",
-      "reason": "MU 1062.68 (-1.14). Standing rule: do not chase MU near 1070. A red print under 1070 is still the ban zone."
+      "when": "5 Oct 13:14 ET / 21:14 GST",
+      "reason": "MU 1066.33 (-0.80). Standing rule: do not chase MU near 1070. A red print under 1070 is still the ban zone."
     },
     {
-      "id": "T-271",
+      "id": "T-276",
       "side": "NO TRADE",
       "ticker": "PLTR",
       "notional": 0,
       "type": "SCAN REJECT",
-      "when": "5 Oct 12:21 ET / 20:21 GST",
-      "reason": "PLTR 187.79 (-0.51). A half-point dip is not a month-1 pullback seat."
+      "when": "5 Oct 13:14 ET / 21:14 GST",
+      "reason": "PLTR 188.29 (-0.24). A quarter-point dip is not a month-1 pullback seat."
     },
     {
-      "id": "T-272",
+      "id": "T-277",
       "side": "NO TRADE",
       "ticker": "NVDA add",
       "notional": 0,
       "type": "NO LIFT",
-      "when": "5 Oct 12:21 ET / 20:21 GST",
-      "reason": "NVDA 236.205 (+0.96), still through spread breakeven 231.65. First clip stays. Second clip remains the 225/240 call spread."
+      "when": "5 Oct 13:14 ET / 21:14 GST",
+      "reason": "NVDA 237.31 (+1.44), still through spread breakeven 231.65. First clip stays. Second clip remains the 225/240 call spread."
     },
     {
-      "id": "T-273",
+      "id": "T-278",
       "side": "HOLD",
       "ticker": "IBIT CSP",
       "notional": 0,
       "type": "NO AMEND",
-      "when": "5 Oct 12:21 ET / 20:21 GST",
-      "reason": "BTC 85098. IBIT 48.15, still above the 47 strike. Oct16 47 put still OTM. Do not buy back."
+      "when": "5 Oct 13:14 ET / 21:14 GST",
+      "reason": "BTC 85206. IBIT 48.27, still above the 47 strike. Oct16 47 put still OTM. Do not buy back."
     },
     {
       "id": "T-003",
@@ -279,7 +279,7 @@
       "notional": 8000,
       "type": "LIMIT 443 STILL OPEN",
       "when": "working",
-      "reason": "Working limit from prior sessions. Mon 484.14. No amend."
+      "reason": "Working limit from prior sessions. Mon 484.33. No amend."
     },
     {
       "id": "F-009",
@@ -288,7 +288,7 @@
       "notional": 4000,
       "type": "FILLED 11.5607 sh @ 346",
       "when": "Thu afternoon trade-through, booked 2 Oct",
-      "reason": "Second clip elected. Combined 22.8324 sh @ 350.38 avg. Mon 360.86. No further add."
+      "reason": "Second clip elected. Combined 22.8324 sh @ 350.38 avg. Mon 362.97. No further add."
     },
     {
       "id": "F-007",
@@ -297,7 +297,7 @@
       "notional": 4000,
       "type": "FILLED 16.0966 sh @ 248.50",
       "when": "24 Sep 12:05 ET / 20:05 GST",
-      "reason": "Limit elected. Mon 251.64. No add."
+      "reason": "Limit elected. Mon 253.16. No add."
     },
     {
       "id": "F-008",
@@ -306,7 +306,7 @@
       "notional": 3000,
       "type": "FILLED 20.9059 sh @ 143.50",
       "when": "24 Sep 12:05 ET / 20:05 GST",
-      "reason": "Limit elected on the dump. Mon 143.22, a few cents under cost. Hold, no panic add or cut."
+      "reason": "Limit elected on the dump. Mon 143.42, a few cents under cost. Hold, no panic add or cut."
     },
     {
       "id": "F-005",
@@ -315,7 +315,7 @@
       "notional": 5000,
       "type": "FILLED 10.0503 sh @ 497.50",
       "when": "23 Sep 15:42 ET scan",
-      "reason": "Mon 524.51. Still green vs cost. No amend."
+      "reason": "Mon 525.51. Still green vs cost. No amend."
     },
     {
       "id": "F-006",
@@ -324,7 +324,7 @@
       "notional": 3500,
       "type": "FILLED 10.3494 sh @ 338.185",
       "when": "23 Sep 15:42 ET scan",
-      "reason": "Full $7k sleeve. Mon 345.01. Green vs 338.72 avg. Hold."
+      "reason": "Full $7k sleeve. Mon 345.96. Green vs 338.72 avg. Hold."
     },
     {
       "id": "O-SPREAD-1",
@@ -333,7 +333,7 @@
       "notional": 665,
       "type": "OPEN",
       "when": "until 16 Oct",
-      "reason": "NVDA 236.205, above the long strike and through 231.65 breakeven. No amend."
+      "reason": "NVDA 237.31, above the long strike and through 231.65 breakeven. No amend."
     },
     {
       "id": "O-HEDGE-1",
@@ -342,7 +342,7 @@
       "notional": 464,
       "type": "OPEN",
       "when": "until 16 Oct",
-      "reason": "QQQ 752.87. Tiny crash coupon further OTM. No short stock."
+      "reason": "QQQ 754.45. Tiny crash coupon further OTM. No short stock."
     },
     {
       "id": "O-CSP-1",
@@ -351,72 +351,48 @@
       "notional": 107,
       "type": "OPEN",
       "when": "until 16 Oct",
-      "reason": "IBIT 48.15 / BTC 85098. CSP still the way we sit BTC. Still OTM. Do not buy back."
+      "reason": "IBIT 48.27 / BTC 85206. CSP still the way we sit BTC. Still OTM. Do not buy back."
     }
   ],
   "log": [
     {
+      "t": "2026-10-05T21:14:00+04:00",
+      "tag": "SCAN",
+      "title": "Monday 21:14 GST early afternoon: no-trade, TSM 443 working",
+      "body": "Dubai 21:14 GST / 13:14 ET. US cash still open. SPX 7770.32 (+0.62) Yahoo 13:14 ET. NDX 31014.93 (+0.67) Google 13:11 ET, session high 31022.62. NVDA 237.31 (+1.44) Google 13:14 ET. AVGO 362.97 (+2.20) Google 13:12 ET. TSM 484.33 (+2.44) Yahoo 13:10 ET. MSFT 525.51 (+1.54) Google 13:12 ET. GOOGL 345.96 (+0.71) Google 13:14 ET. PLTR 188.29 (-0.24) Yahoo 13:14 ET. AMZN 253.16 (+0.65). ORCL 143.42 (+0.72 vs Fri). MU 1066.33 (-0.80). QQQ 754.45 (+0.65). SPY 774.19 (+0.59). BTC 85205.77 (-1.46) Google 17:13 UTC. IBIT 48.27 (+1.14). SGOV 100.445 carried. APP 283.14 carried from 12:21 ET, no seat. TSM 443 still open, no amend, no cancel. No trade MU near 1070. No trade PLTR. No lift NVDA stock. IBIT CSP not amended. No new names. No leverage month 1. Paper only."
+    },
+    {
+      "t": "2026-10-05T21:14:00+04:00",
+      "tag": "MARK",
+      "title": "Monday 21:14 stamp \u2014 NAV $101,085.05",
+      "body": "NAV $101,085.05. Inception +$1,085.05. Change vs the 20:21 GST stamp: +$136.03, mark-to-market only, no new fill. Lift is NVDA, AVGO, MSFT, GOOGL, and AMZN off the midday prints. ORCL still a few cents under cost. Options overlay still held at entry debit/credit, not remarked. $140k is an ambition, not a forecast. Not a 40% promise."
+    },
+    {
       "t": "2026-10-05T20:21:00+04:00",
       "tag": "SCAN",
       "title": "Monday 20:21 GST midday: no-trade, TSM 443 working",
-      "body": "Dubai 20:21 GST / 12:21 ET. US cash open. Yahoo v8: SPX 7758.46 (+0.46), NDX 30956.82 (+0.48), NVDA 236.205 (+0.96), AVGO 360.86 (+1.61), TSM 484.14 (+2.40), MSFT 524.51 (+1.35), GOOGL 345.01 (+0.44), PLTR 187.79 (-0.51), AMZN 251.64 (+0.05), ORCL 143.22 (+0.65 vs Fri), MU 1062.68 (-1.14). QQQ 752.87 (+0.44), SPY 772.91 (+0.42). BTC 85097.84 (-1.64 vs chart previous close 86513.38). IBIT 48.15 (+0.88). SGOV 100.445. APP 283.14 (+5.56), scanned, no seat. TSM 443 still open, no amend, no cancel. No trade MU near 1070. No trade PLTR. No lift NVDA stock. IBIT CSP not amended. No new names. No leverage month 1. Paper only."
+      "body": "Dubai 20:21 GST / 12:21 ET. US cash open. Yahoo v8: SPX 7758.46 (+0.46), NDX 30956.82 (+0.48), NVDA 236.205 (+0.96), AVGO 360.86 (+1.61), TSM 484.14 (+2.40), MSFT 524.51 (+1.35), GOOGL 345.01 (+0.44), PLTR 187.79 (-0.51), AMZN 251.64 (+0.05), ORCL 143.22 (+0.65 vs Fri), MU 1062.68 (-1.14). QQQ 752.87 (+0.44), SPY 772.91 (+0.42). BTC 85097.84. IBIT 48.15. TSM 443 still open. No leverage month 1. Paper only."
     },
     {
       "t": "2026-10-05T20:21:00+04:00",
       "tag": "MARK",
       "title": "Monday 20:21 stamp \u2014 NAV $100,949.02",
-      "body": "NAV $100,949.02. Inception +$949.02. Change vs the 19:26 GST stamp: -$75.11, mark-to-market only, no new fill. Giveback is NVDA, AVGO, and MSFT off the late-morning prints. ORCL still a few cents under cost. Options overlay still held at entry debit/credit, not remarked. $140k is an ambition, not a forecast. Not a 40% promise."
-    },
-    {
-      "t": "2026-10-05T19:26:00+04:00",
-      "tag": "SCAN",
-      "title": "Monday 19:26 GST late morning: no-trade, TSM 443 working",
-      "body": "Dubai 19:26 GST / 11:26 ET. US cash open. Yahoo v8: SPX 7755.75 (+0.43), NDX 30978.76 (+0.55), NVDA 236.86 (+1.24), AVGO 362.32 (+2.02), TSM 483.39 (+2.24), MSFT 526.51 (+1.74), GOOGL 344.98 (+0.43), PLTR 188.94 (+0.10), AMZN 251.78 (+0.10), ORCL 143.34 (+0.73 vs Fri), MU 1063.92 (-1.02). QQQ 753.54 (+0.53), SPY 772.67 (+0.39). BTC 85537.44 (+0.36). IBIT 48.44 (+1.49). SGOV 100.445. APP 285.43 (+6.41), scanned, no seat. TSM 443 still open, no amend, no cancel. No trade MU near 1070. No trade PLTR. No lift NVDA stock. IBIT CSP not amended. No new names. No leverage month 1. Paper only."
+      "body": "NAV $100,949.02. Inception +$949.02. Change vs the 19:26 GST stamp: -$75.11, mark-to-market only, no new fill. Giveback was NVDA, AVGO, and MSFT off the late-morning prints. Options overlay held at entry debit/credit. $140k is an ambition, not a forecast. Not a 40% promise."
     },
     {
       "t": "2026-10-05T19:26:00+04:00",
       "tag": "MARK",
       "title": "Monday 19:26 stamp \u2014 NAV $101,024.13",
-      "body": "NAV $101,024.13. Inception +$1,024.13. Change vs the 18:25 GST stamp: +$13.11, mark-to-market only, no new fill. AVGO did the lifting. ORCL faded back a few cents under cost. Options overlay still held at entry debit/credit, not remarked. $140k is an ambition, not a forecast. Not a 40% promise."
-    },
-    {
-      "t": "2026-10-05T18:25:00+04:00",
-      "tag": "SCAN",
-      "title": "Monday 18:25 GST mid-morning: no-trade, TSM 443 working",
-      "body": "Dubai 18:25 GST / 10:25 ET. US cash open. Yahoo: SPX 7755.73 (+0.43) at 10:22 ET, NDX 30913.19 (+0.34) at 10:09 ET, NVDA 237.18 (+1.38) at 10:25 ET, AVGO 359.82 (+1.32) at 10:22 ET, TSM 478.71 (+1.25) at 10:22 ET, MSFT 526.66 (+1.76) at 10:23 ET, GOOGL 344.85 (+0.39) at 10:24 ET, PLTR 189.21 (+0.24) at 10:24 ET, AMZN 251.51 (flat) at 10:25 ET, ORCL 145.55 (+2.28) at 10:23 ET, MU 1065.54 (-0.87) at 10:26 ET. QQQ 753.83 (+0.57), SPY 772.59 (+0.38). BTC 86368.11 (+1.28) at 14:23 UTC. IBIT 48.91 (+2.48) at 10:05 ET. SGOV and APP carried. TSM 443 still open, no amend, no cancel. No trade MU near 1070. No trade PLTR. No lift NVDA stock. IBIT CSP not amended. No new names. No leverage month 1. Paper only."
-    },
-    {
-      "t": "2026-10-05T18:25:00+04:00",
-      "tag": "MARK",
-      "title": "Monday 18:25 stamp \u2014 NAV $101,011.02",
-      "body": "NAV $101,011.02. Inception +$1,011.02. Change vs the 17:33 GST open stamp: +$197.70, mark-to-market only, no new fill. Lift is NVDA, AVGO, MSFT, and ORCL through the open marks. AMZN flat vs Friday, still green vs cost. Options overlay still held at entry debit/credit, not remarked. $140k is an ambition, not a forecast. Not a 40% promise."
-    },
-    {
-      "t": "2026-10-05T17:33:00+04:00",
-      "tag": "SCAN",
-      "title": "Monday 17:33 GST open: no-trade, TSM 443 working",
-      "body": "Dubai 17:33 GST / 09:33 ET. US cash just open. First prints: SPX 7728.15 (+0.07), NVDA 236.05 (+0.90), AVGO 357.48 (+0.66), TSM 479.98 (+1.52 at 09:22 ET), MSFT 522.38 (+0.94 vs Fri 517.53), GOOGL 344.00 (+0.15), PLTR 190.42 (+0.89), AMZN 250.40 (-0.45), ORCL 143.84, MU 1072.14 (-0.26). NDX Yahoo still showing Friday close 30807.93; QQQ live 750.83 (+0.17). BTC 85908.10. IBIT Friday close 47.73, no Monday print yet. SGOV and APP carried. TSM 443 still open, no amend, no cancel. No trade MU near 1070. No trade PLTR. No lift NVDA stock. IBIT CSP not amended. No new names. No leverage month 1. Paper only."
-    },
-    {
-      "t": "2026-10-05T17:33:00+04:00",
-      "tag": "MARK",
-      "title": "Monday 17:33 stamp \u2014 NAV $100,813.32",
-      "body": "NAV $100,813.32. Inception +$813.32. Change vs the 16:31 GST pre-open stamp: +$182.58, mark-to-market only, no new fill. Lift is NVDA, AVGO, and MSFT opening through Friday closes, with ORCL back through cost. AMZN gave a little back. Options overlay still held at entry debit/credit, not remarked. $140k is an ambition, not a forecast. Not a 40% promise."
-    },
-    {
-      "t": "2026-10-05T16:31:00+04:00",
-      "tag": "SCAN",
-      "title": "Monday 16:31 GST pre-open: no-trade, TSM 443 working",
-      "body": "Dubai 16:31 GST / 08:31 ET. US cash not open. Friday official closes used for the equity book. Superseded by the 17:33 GST open stamp."
+      "body": "NAV $101,024.13. Inception +$1,024.13. Change vs the 18:25 GST stamp: +$13.11, mark-to-market only. AVGO did the lifting. Not a 40% promise."
     },
     {
       "t": "2026-10-02T16:26:00+04:00",
       "tag": "FILL",
       "title": "AVGO 346 limit elected \u2014 sleeve now full",
-      "body": "Booked 11.5607 sh @ 346, $4,000. Combined 22.8324 sh, avg 350.38. Premarket was not an add. No leverage month 1. Paper only."
+      "body": "Booked 11.5607 sh @ 346, $4,000. Combined 22.8324 sh, avg 350.38. No leverage month 1. Paper only."
     }
   ],
-  "quote_source": "Monday 20:21 GST / 12:21 ET. Yahoo v8 chart meta: SPX 7758.46 vs Fri 7722.72. NDX 30956.82 vs Fri 30807.93. NVDA 236.205 vs Fri 233.95. AVGO 360.858 vs Fri 355.14. TSM 484.14 vs Fri 472.78. MSFT 524.505 vs Fri 517.53. GOOGL 345.01 vs Fri 343.50. PLTR 187.79 vs Fri 188.75. AMZN 251.64 vs Fri 251.52. ORCL 143.22 vs Fri 142.30. MU 1062.68 vs Fri 1074.89. QQQ 752.87 vs Fri 749.58. SPY 772.905 vs Fri 769.64. IBIT 48.15 vs Fri 47.73. BTC 85097.84 vs chart previous close 86513.38. SGOV 100.445. APP 283.135 vs Fri 268.22. Options overlay held at paper debit/credit, not remarked.",
+  "quote_source": "Monday 21:14 GST / 13:14 ET. SPX 7770.32 Yahoo 13:14:29 ET vs Fri 7722.72. NDX 31014.93 Google 13:11 ET vs Fri 30807.93. NVDA 237.31 Google 13:14 ET vs Fri 233.95. AVGO 362.97 Google 13:12 ET vs Fri 355.14. TSM 484.33 Yahoo 13:10 ET vs Fri 472.78. MSFT 525.51 Google 13:12 ET vs Fri 517.53. GOOGL 345.96 Google 13:14 ET vs Fri 343.50. PLTR 188.29 Yahoo 13:14 ET vs Fri 188.75. AMZN 253.16 Google 13:14 ET vs Fri 251.52. ORCL 143.42 Google 13:14 ET vs Fri 142.30. MU 1066.33 Google 13:13 ET vs Fri 1074.89. QQQ 754.45. SPY 774.19. IBIT 48.27 vs Fri 47.73. BTC 85205.77 Google 17:13 UTC. SGOV 100.445 carried. APP 283.14 carried from 12:21 ET. Options overlay held at paper debit/credit, not remarked.",
   "positions": [
     {
       "ticker": "SGOV",
@@ -432,54 +408,54 @@
       "shares": 26.6252,
       "avg": 225.35,
       "cost": 5999.99,
-      "last": 236.205,
-      "mv": 6289.01,
-      "pnl": 289.02
+      "last": 237.31,
+      "mv": 6318.43,
+      "pnl": 318.44
     },
     {
       "ticker": "GOOGL",
       "shares": 20.666,
       "avg": 338.7211,
       "cost": 7000.01,
-      "last": 345.01,
-      "mv": 7129.98,
-      "pnl": 129.97
+      "last": 345.96,
+      "mv": 7149.61,
+      "pnl": 149.6
     },
     {
       "ticker": "AVGO",
       "shares": 22.8324,
       "avg": 350.3789,
       "cost": 7999.99,
-      "last": 360.858,
-      "mv": 8239.25,
-      "pnl": 239.26
+      "last": 362.97,
+      "mv": 8287.48,
+      "pnl": 287.49
     },
     {
       "ticker": "MSFT",
       "shares": 10.0503,
       "avg": 497.5,
       "cost": 5000.0,
-      "last": 524.505,
-      "mv": 5271.43,
-      "pnl": 271.43
+      "last": 525.51,
+      "mv": 5281.53,
+      "pnl": 281.53
     },
     {
       "ticker": "AMZN",
       "shares": 16.0966,
       "avg": 248.5,
       "cost": 4000.0,
-      "last": 251.64,
-      "mv": 4050.55,
-      "pnl": 50.55
+      "last": 253.16,
+      "mv": 4075.02,
+      "pnl": 75.02
     },
     {
       "ticker": "ORCL",
       "shares": 20.9059,
       "avg": 143.5,
       "cost": 3000.0,
-      "last": 143.22,
-      "mv": 2994.14,
-      "pnl": -5.86
+      "last": 143.42,
+      "mv": 2998.32,
+      "pnl": -1.68
     }
   ],
   "reserved_csp": 4700,

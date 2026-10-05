@@ -1,76 +1,76 @@
 {
-  "fetched": "2026-10-05T20:21:00+04:00",
-  "source": "Monday midday 12:21 ET / 20:21 GST. Yahoo v8 chart meta regularMarketPrice. BTC vs chart previous close 86513.38.",
+  "fetched": "2026-10-05T21:14:00+04:00",
+  "source": "Monday early afternoon 13:14 ET / 21:14 GST. Yahoo SPX/TSM/PLTR. Google Finance NDX NVDA AVGO MSFT GOOGL AMZN ORCL MU IBIT QQQ SPY BTC. SGOV and APP carried from 12:21 ET.",
   "quotes": [
     {
       "s": "SPX",
-      "px": 7758.46,
-      "chg": 0.46
+      "px": 7770.32,
+      "chg": 0.62
     },
     {
       "s": "NDX",
-      "px": 30956.82,
-      "chg": 0.48
+      "px": 31014.93,
+      "chg": 0.67
     },
     {
       "s": "NVDA",
-      "px": 236.205,
-      "chg": 0.96
+      "px": 237.31,
+      "chg": 1.44
     },
     {
       "s": "AVGO",
-      "px": 360.86,
-      "chg": 1.61
+      "px": 362.97,
+      "chg": 2.2
     },
     {
       "s": "TSM",
-      "px": 484.14,
-      "chg": 2.4
+      "px": 484.33,
+      "chg": 2.44
     },
     {
       "s": "MSFT",
-      "px": 524.51,
-      "chg": 1.35
+      "px": 525.51,
+      "chg": 1.54
     },
     {
       "s": "GOOGL",
-      "px": 345.01,
-      "chg": 0.44
+      "px": 345.96,
+      "chg": 0.71
     },
     {
       "s": "PLTR",
-      "px": 187.79,
-      "chg": -0.51
+      "px": 188.29,
+      "chg": -0.24
     },
     {
       "s": "BTC",
-      "px": 85097.84,
-      "chg": -1.64
+      "px": 85205.77,
+      "chg": -1.46
     },
     {
       "s": "AMZN",
-      "px": 251.64,
-      "chg": 0.05
-    },
-    {
-      "s": "ORCL",
-      "px": 143.22,
+      "px": 253.16,
       "chg": 0.65
     },
     {
+      "s": "ORCL",
+      "px": 143.42,
+      "chg": 0.72
+    },
+    {
       "s": "IBIT",
-      "px": 48.15,
-      "chg": 0.88
+      "px": 48.27,
+      "chg": 1.14
     },
     {
       "s": "QQQ",
-      "px": 752.87,
-      "chg": 0.44
+      "px": 754.45,
+      "chg": 0.65
     },
     {
       "s": "SPY",
-      "px": 772.91,
-      "chg": 0.42
+      "px": 774.19,
+      "chg": 0.59
     },
     {
       "s": "SGOV",
@@ -79,8 +79,8 @@
     },
     {
       "s": "MU",
-      "px": 1062.68,
-      "chg": -1.14
+      "px": 1066.33,
+      "chg": -0.8
     },
     {
       "s": "APP",
