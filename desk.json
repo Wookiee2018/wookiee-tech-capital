@@ -8,11 +8,11 @@
   "updated": "2026-10-06T16:28:00+04:00",
   "timezone": "Asia/Dubai",
   "status": "CLOUD LIVE / TUE 08:28 ET PREMARKET \u2014 NO TRADE. TSM 443 STILL WORKING. NO MU. NO LEVERAGE.",
-  "nav": 100281.64,
+  "nav": 101303.64,
   "cash": 50978.01,
-  "deployed": 49303.63,
-  "day_pnl": -951.96,
-  "inception_pnl": 281.64,
+  "deployed": 50325.63,
+  "day_pnl": 70.04,
+  "inception_pnl": 1303.64,
   "target_nav": 140000,
   "target_is_forecast": false,
   "risk": "AGGRESSIVE CONCENTRATION \u2014 my call. No leverage month 1. No MU chase near 1070.",
@@ -394,8 +394,8 @@
     {
       "t": "2026-10-06T16:28:00+04:00",
       "tag": "MARK",
-      "title": "Tuesday 16:28 stamp \u2014 NAV $100,281.64",
-      "body": "NAV $100,281.64. Inception +$281.64. Change vs the 23:18 GST Monday stamp: +$-951.96, indicative premarket mark only, no new fill. Cash not open. Options overlay still held at entry debit/credit, not remarked. $140k is an ambition, not a forecast. Not a 40% promise."
+      "title": "Tuesday 16:28 stamp \u2014 NAV $101,303.64",
+      "body": "NAV $101,303.64. Inception +$1,303.64. Change vs the 23:18 GST Monday stamp: +$70.04, indicative premarket mark only, no new fill. Cash not open. Options overlay still held at entry debit/credit, not remarked. $140k is an ambition, not a forecast. Not a 40% promise."
     }
   ],
   "quote_source": "Tuesday 16:28 GST / 08:28 ET premarket. Cash not open. SPX 7773.95 and NDX 31076.44 are Monday closes (MarketVeo / Barron's). NVDA 241.12 TradeSmith 07:42 ET vs Mon close 238.90. AVGO 364.77 TradeSmith 07:07 ET vs 362.51. TSM 485.87 Finviz ~flat vs Mon 485.80. MSFT 528.33 and GOOGL 348.12 carried from 08:23 stamp (closes 525.18 / 346.47). PLTR 191.15 TradeSmith 08:14 ET vs 189.40. BTC 86285 OKX session vs Mon 85266. MU 1071.49 Finviz pre, still the ban zone. IBIT 48.50 carried. SGOV 100.445 carried. Options overlay held at paper debit/credit, not remarked. Indicative marks only \u2014 no fills.",
