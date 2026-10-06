@@ -1,9 +1,73 @@
 {
-  "firm": "Wookiee Tech Capital",
-  "asof": "2026-10-05T23:18:00+04:00",
-  "nav": 101233.60,
+  "asof": "2026-10-06T16:28:00+04:00",
+  "nav": 100281.64,
   "cash": 50978.01,
-  "deployed": 49233.59,
-  "inception_pnl": 1233.60,
-  "paper": true
+  "deployed": 49303.63,
+  "day_pnl": -951.96,
+  "inception_pnl": 281.64,
+  "positions": [
+    {
+      "ticker": "SGOV",
+      "shares": 149.0831,
+      "avg": 100.615,
+      "cost": 15000.0,
+      "last": 100.445,
+      "mv": 14974.65,
+      "pnl": -25.35
+    },
+    {
+      "ticker": "NVDA",
+      "shares": 26.6252,
+      "avg": 225.35,
+      "cost": 5999.99,
+      "last": 241.12,
+      "mv": 6419.87,
+      "pnl": 419.88
+    },
+    {
+      "ticker": "GOOGL",
+      "shares": 20.666,
+      "avg": 338.7211,
+      "cost": 7000.01,
+      "last": 348.12,
+      "mv": 7194.25,
+      "pnl": 194.24
+    },
+    {
+      "ticker": "AVGO",
+      "shares": 22.8324,
+      "avg": 350.3789,
+      "cost": 7999.99,
+      "last": 364.77,
+      "mv": 8328.57,
+      "pnl": 328.58
+    },
+    {
+      "ticker": "MSFT",
+      "shares": 10.0503,
+      "avg": 497.5,
+      "cost": 5000.0,
+      "last": 528.33,
+      "mv": 5309.87,
+      "pnl": 309.87
+    },
+    {
+      "ticker": "AMZN",
+      "shares": 16.0966,
+      "avg": 248.5,
+      "cost": 4000.0,
+      "last": 252.91,
+      "mv": 4070.99,
+      "pnl": 70.99
+    },
+    {
+      "ticker": "ORCL",
+      "shares": 20.9059,
+      "avg": 143.5,
+      "cost": 3000.0,
+      "last": 143.76,
+      "mv": 3005.43,
+      "pnl": 5.43
+    }
+  ]
 }
