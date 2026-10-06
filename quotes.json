@@ -1,12 +1,12 @@
 {
-  "asof": "2026-10-06T19:18:00+04:00",
-  "note": "US cash open. Yahoo prints ~11:18 ET. QQQ and SPY are direct prints. SGOV is Monday close. APP carried.",
+  "asof": "2026-10-06T19:22:00+04:00",
+  "note": "US cash open. Finviz 11:22 ET for NVDA AVGO TSM. Rest carried from Yahoo ~11:18 ET after Finviz rate-limit. SGOV is Monday close. APP carried.",
   "tape": [
     {"s": "SPX", "px": 7836.87, "chg": 0.81},
     {"s": "NDX", "px": 31334.17, "chg": 0.83},
-    {"s": "NVDA", "px": 241.88, "chg": 1.25},
-    {"s": "AVGO", "px": 377.96, "chg": 4.26},
-    {"s": "TSM", "px": 483.69, "chg": -0.43},
+    {"s": "NVDA", "px": 241.83, "chg": 1.23},
+    {"s": "AVGO", "px": 378.57, "chg": 4.43},
+    {"s": "TSM", "px": 483.37, "chg": -0.50},
     {"s": "MSFT", "px": 533.05, "chg": 1.50},
     {"s": "GOOGL", "px": 348.26, "chg": 0.52},
     {"s": "PLTR", "px": 192.66, "chg": 1.72},
