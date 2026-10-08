@@ -30,7 +30,7 @@
     {"s": "ORCL", "px": 135.43, "chg": -5.66},
     {"s": "IBIT", "px": 46.09, "chg": -2.37},
     {"s": "QQQ", "px": 746.05, "chg": -1.54},
-    {"s": "SPY", "px": 772.88, "chg": -0.60},
+    {"s": "SPY", "px": 772.81, "chg": -0.57},
     {"s": "SGOV", "px": 100.45, "chg": 0.01},
     {"s": "MU", "px": 1034.73, "chg": -4.90},
     {"s": "APP", "px": 283.14, "chg": 0.0}
@@ -68,7 +68,7 @@
     {"id": "O-CSP-1", "structure": "IBIT Oct16 47 cash-secured put", "legs": "short 47p, $4700 reserved", "net": 107, "max_loss": 4593, "status": "OPEN \u2014 about $0.91 ITM, do not buy back"}
   ],
   "log": [
-    {"t": "2026-10-08T23:14:00+04:00", "tag": "SCAN", "title": "Thursday 23:14 GST cash: no-trade, TSM 443 working", "body": "Dubai 23:14 GST / 15:14 ET. US cash open, last hour. Yahoo: SPX 7755.03 (-0.60%, 15:12 ET). NDX 30703.71 (-1.46%, 14:15 ET last index print). NVDA 230.39 (-2.98%, 15:14 ET). AVGO 357.72 (-4.99%, 15:12 ET). TSM 455.67 (-3.50%, 14:47 ET). MSFT 521.22 (-1.61%, 15:12 ET). GOOGL 348.09 (-0.69%, 15:12 ET). PLTR 196.97 (+1.47%, 15:12 ET). AMZN 254.92 (-1.92%). ORCL 135.43 (-5.66%). MU 1034.73 (-4.90%), still on the ban near 1070. BTC 81439.48 (-2.34%). IBIT 46.09, about $0.91 through the 47 strike. QQQ 746.05. SPY 772.88 scaled off SPX. SGOV carried 100.45. Tape is a yield and oil shock: 10-year near 5.36, Brent around 105, semis the drag. TSM 443 still open, about 13 handles away, no amend, no cancel. Earnings 15 Oct before the open. No trade MU. No trade PLTR. No lift NVDA stock. No chase AVGO. IBIT CSP not bought back. No new names. No leverage month 1. Paper only."},
+    {"t": "2026-10-08T23:14:00+04:00", "tag": "SCAN", "title": "Thursday 23:14 GST cash: no-trade, TSM 443 working", "body": "Dubai 23:14 GST / 15:14 ET. US cash open, last hour. Yahoo: SPX 7755.03 (-0.60%, 15:12 ET). NDX 30703.71 (-1.46%, 14:15 ET last index print). NVDA 230.39 (-2.98%, 15:14 ET). AVGO 357.72 (-4.99%, 15:12 ET). TSM 455.67 (-3.50%, 14:47 ET). MSFT 521.22 (-1.61%, 15:12 ET). GOOGL 348.09 (-0.69%, 15:12 ET). PLTR 196.97 (+1.47%, 15:12 ET). AMZN 254.92 (-1.92%). ORCL 135.43 (-5.66%). MU 1034.73 (-4.90%), still on the ban near 1070. BTC 81439.48 (-2.34%). IBIT 46.09, about $0.91 through the 47 strike. QQQ 746.05. SPY 772.81 (-0.57%, 15:09 ET). SGOV carried 100.45. Tape is a yield and oil shock: 10-year near 5.36, Brent around 105, semis the drag. TSM 443 still open, about 13 handles away, no amend, no cancel. Earnings 15 Oct before the open. No trade MU. No trade PLTR. No lift NVDA stock. No chase AVGO. IBIT CSP not bought back. No new names. No leverage month 1. Paper only."},
     {"t": "2026-10-08T23:14:00+04:00", "tag": "MARK", "title": "Thursday 23:14 stamp \u2014 NAV $100,668.47", "body": "NAV $100,668.47. Continuous mark off the 22:16 GST stamp. NVDA 26.6252 sh at 230.39. AVGO 22.8324 sh at 357.72. MSFT 10.0503 sh at 521.22. GOOGL 20.666 sh at 348.09. AMZN 16.0966 sh at 254.92. ORCL 20.9059 sh at 135.43. SGOV carried 100.45. Inception +$668.47. Change vs the 22:16 GST stamp: -$40.65. Options overlay still held at entry debit/credit, not remarked. $140k is an ambition, not a forecast. Not a 40% promise."},
     {"t": "2026-10-08T22:16:00+04:00", "tag": "SCAN", "title": "Thursday 22:16 GST cash: no-trade, TSM 443 working", "body": "Dubai 22:16 GST / 14:16 ET. US cash open. Working TSM 443 only. No leverage month 1."},
     {"t": "2026-10-08T22:16:00+04:00", "tag": "MARK", "title": "Thursday 22:16 stamp \u2014 NAV $100,709.12", "body": "NAV $100,709.12. Inception +$709.12. Change vs the 21:18 GST stamp: -$278.08."}
