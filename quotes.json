@@ -1,91 +1,23 @@
 {
-  "asof": "2026-10-08T17:27:00+04:00",
-  "note": "US cash not open. Wednesday closes for SPX/NDX. Premarket NVDA 09:23 ET, AVGO 09:06 ET, TSM 09:14 ET. BTC OKX 8 Oct session print. Other names carried. NAV lives in desk.json.",
+  "asof": "2026-10-08T18:18:00+04:00",
+  "note": "US cash open. Yahoo prints ~10:13-10:19 ET 8 Oct 2026. NDX print is 10:03 ET. SGOV and APP carried. BTC Yahoo 14:16 UTC. NAV lives in desk.json.",
   "tape": [
-    {
-      "s": "SPX",
-      "px": 7801.77,
-      "chg": -0.22
-    },
-    {
-      "s": "NDX",
-      "px": 31160.08,
-      "chg": -0.21
-    },
-    {
-      "s": "NVDA",
-      "px": 235.51,
-      "chg": -0.83
-    },
-    {
-      "s": "AVGO",
-      "px": 371.08,
-      "chg": -1.44
-    },
-    {
-      "s": "TSM",
-      "px": 466.96,
-      "chg": -1.11
-    },
-    {
-      "s": "MSFT",
-      "px": 526.86,
-      "chg": -0.55
-    },
-    {
-      "s": "GOOGL",
-      "px": 348.22,
-      "chg": -0.65
-    },
-    {
-      "s": "PLTR",
-      "px": 199.34,
-      "chg": 2.69
-    },
-    {
-      "s": "BTC",
-      "px": 82638.0,
-      "chg": -0.98
-    },
-    {
-      "s": "AMZN",
-      "px": 259.84,
-      "chg": 1.39
-    },
-    {
-      "s": "ORCL",
-      "px": 144.13,
-      "chg": -0.44
-    },
-    {
-      "s": "IBIT",
-      "px": 46.58,
-      "chg": -1.33
-    },
-    {
-      "s": "QQQ",
-      "px": 756.85,
-      "chg": -0.37
-    },
-    {
-      "s": "SPY",
-      "px": 777.36,
-      "chg": -0.22
-    },
-    {
-      "s": "SGOV",
-      "px": 100.45,
-      "chg": 0.01
-    },
-    {
-      "s": "MU",
-      "px": 1069.0,
-      "chg": -1.75
-    },
-    {
-      "s": "APP",
-      "px": 283.14,
-      "chg": 0.0
-    }
+    {"s": "SPX", "px": 7785.93, "chg": -0.20},
+    {"s": "NDX", "px": 30981.45, "chg": -0.57},
+    {"s": "NVDA", "px": 236.01, "chg": -0.61},
+    {"s": "AVGO", "px": 368.77, "chg": -2.06},
+    {"s": "TSM", "px": 467.91, "chg": -0.91},
+    {"s": "MSFT", "px": 531.56, "chg": 0.34},
+    {"s": "GOOGL", "px": 351.92, "chg": 0.41},
+    {"s": "PLTR", "px": 201.58, "chg": 3.84},
+    {"s": "BTC", "px": 82451.86, "chg": -0.63},
+    {"s": "AMZN", "px": 259.18, "chg": -0.28},
+    {"s": "ORCL", "px": 141.49, "chg": -1.45},
+    {"s": "IBIT", "px": 46.67, "chg": -1.15},
+    {"s": "QQQ", "px": 755.01, "chg": -0.36},
+    {"s": "SPY", "px": 775.92, "chg": -0.17},
+    {"s": "SGOV", "px": 100.45, "chg": 0.01},
+    {"s": "MU", "px": 1066.17, "chg": -2.01},
+    {"s": "APP", "px": 283.14, "chg": 0.0}
   ]
 }
