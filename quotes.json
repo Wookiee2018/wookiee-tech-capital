@@ -1,23 +1,91 @@
 {
-  "asof": "2026-10-07T22:16:00+04:00",
-  "note": "US cash open. Yahoo prints 13:24-14:15 ET. BTC 18:14 UTC. SGOV and APP carried. NAV lives in desk.json.",
+  "asof": "2026-10-08T17:27:00+04:00",
+  "note": "US cash not open. Wednesday closes for SPX/NDX. Premarket NVDA 09:23 ET, AVGO 09:06 ET, TSM 09:14 ET. BTC OKX 8 Oct session print. Other names carried. NAV lives in desk.json.",
   "tape": [
-    {"s": "SPX", "px": 7801.93, "chg": -0.22},
-    {"s": "NDX", "px": 31142.92, "chg": -0.26},
-    {"s": "NVDA", "px": 236.88, "chg": -0.99},
-    {"s": "AVGO", "px": 373.21, "chg": -0.69},
-    {"s": "TSM", "px": 473.87, "chg": -1.75},
-    {"s": "MSFT", "px": 530.23, "chg": 0.18},
-    {"s": "GOOGL", "px": 348.08, "chg": 0.12},
-    {"s": "PLTR", "px": 193.62, "chg": 0.81},
-    {"s": "BTC", "px": 83307.01, "chg": -2.56},
-    {"s": "AMZN", "px": 258.89, "chg": 1.01},
-    {"s": "ORCL", "px": 143.96, "chg": -0.56},
-    {"s": "IBIT", "px": 47.14, "chg": -2.78},
-    {"s": "QQQ", "px": 757.28, "chg": -0.31},
-    {"s": "SPY", "px": 777.53, "chg": -0.2},
-    {"s": "SGOV", "px": 100.45, "chg": 0.01},
-    {"s": "MU", "px": 1086.23, "chg": 3.89},
-    {"s": "APP", "px": 283.14, "chg": 0.0}
+    {
+      "s": "SPX",
+      "px": 7801.77,
+      "chg": -0.22
+    },
+    {
+      "s": "NDX",
+      "px": 31160.08,
+      "chg": -0.21
+    },
+    {
+      "s": "NVDA",
+      "px": 235.51,
+      "chg": -0.83
+    },
+    {
+      "s": "AVGO",
+      "px": 371.08,
+      "chg": -1.44
+    },
+    {
+      "s": "TSM",
+      "px": 466.96,
+      "chg": -1.11
+    },
+    {
+      "s": "MSFT",
+      "px": 526.86,
+      "chg": -0.55
+    },
+    {
+      "s": "GOOGL",
+      "px": 348.22,
+      "chg": -0.65
+    },
+    {
+      "s": "PLTR",
+      "px": 199.34,
+      "chg": 2.69
+    },
+    {
+      "s": "BTC",
+      "px": 82638.0,
+      "chg": -0.98
+    },
+    {
+      "s": "AMZN",
+      "px": 259.84,
+      "chg": 1.39
+    },
+    {
+      "s": "ORCL",
+      "px": 144.13,
+      "chg": -0.44
+    },
+    {
+      "s": "IBIT",
+      "px": 46.58,
+      "chg": -1.33
+    },
+    {
+      "s": "QQQ",
+      "px": 756.85,
+      "chg": -0.37
+    },
+    {
+      "s": "SPY",
+      "px": 777.36,
+      "chg": -0.22
+    },
+    {
+      "s": "SGOV",
+      "px": 100.45,
+      "chg": 0.01
+    },
+    {
+      "s": "MU",
+      "px": 1069.0,
+      "chg": -1.75
+    },
+    {
+      "s": "APP",
+      "px": 283.14,
+      "chg": 0.0
+    }
   ]
 }
