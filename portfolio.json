@@ -1,17 +1,17 @@
 {
-  "asof": "2026-10-08T22:16:00+04:00",
-  "nav": 100709.12,
+  "asof": "2026-10-09T18:20:00+04:00",
+  "nav": 101193.97,
   "cash": 50978.01,
-  "deployed": 49731.11,
-  "day_pnl": -278.08,
-  "inception_pnl": 709.12,
+  "deployed": 50215.96,
+  "day_pnl": 22.5,
+  "inception_pnl": 1193.97,
   "positions": [
     {"ticker": "SGOV", "shares": 149.0831, "avg": 100.615, "cost": 15000.0, "last": 100.45, "mv": 15000.0, "pnl": 0.0},
-    {"ticker": "NVDA", "shares": 26.6252, "avg": 225.35, "cost": 5999.99, "last": 230.37, "mv": 6133.65, "pnl": 133.66},
-    {"ticker": "GOOGL", "shares": 20.666, "avg": 338.7211, "cost": 7000.01, "last": 346.77, "mv": 7166.35, "pnl": 166.34},
-    {"ticker": "AVGO", "shares": 22.8324, "avg": 350.3789, "cost": 7999.99, "last": 360.83, "mv": 8238.61, "pnl": 238.62},
-    {"ticker": "MSFT", "shares": 10.0503, "avg": 497.5, "cost": 5000.0, "last": 519.25, "mv": 5218.62, "pnl": 218.62},
-    {"ticker": "AMZN", "shares": 16.0966, "avg": 248.5, "cost": 4000.0, "last": 254.42, "mv": 4095.30, "pnl": 95.30},
-    {"ticker": "ORCL", "shares": 20.9059, "avg": 143.5, "cost": 3000.0, "last": 136.64, "mv": 2856.58, "pnl": -143.42}
+    {"ticker": "NVDA", "shares": 26.6252, "avg": 225.35, "cost": 5999.99, "last": 230.95, "mv": 6149.09, "pnl": 149.1},
+    {"ticker": "GOOGL", "shares": 20.666, "avg": 338.7211, "cost": 7000.01, "last": 352.92, "mv": 7293.44, "pnl": 293.43},
+    {"ticker": "AVGO", "shares": 22.8324, "avg": 350.3789, "cost": 7999.99, "last": 363.14, "mv": 8291.36, "pnl": 291.37},
+    {"ticker": "MSFT", "shares": 10.0503, "avg": 497.5, "cost": 5000.0, "last": 531.78, "mv": 5344.55, "pnl": 344.55},
+    {"ticker": "AMZN", "shares": 16.0966, "avg": 248.5, "cost": 4000.0, "last": 259.69, "mv": 4180.13, "pnl": 180.13},
+    {"ticker": "ORCL", "shares": 20.9059, "avg": 143.5, "cost": 3000.0, "last": 140.41, "mv": 2935.4, "pnl": -64.6}
   ]
 }
