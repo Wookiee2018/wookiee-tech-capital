@@ -1,15 +1,15 @@
 {
-  "asof": "2026-10-09T20:26:00+04:00",
-  "source": "Yahoo Finance cash prints, Friday 12:26 ET",
+  "asof": "2026-10-09T22:17:00+04:00",
+  "source": "Yahoo Finance cash prints, Friday 14:17 ET",
   "tape": [
-    {"s": "SPX", "px": 7803.91, "chg": 0.50},
-    {"s": "NDX", "px": 30853.27, "chg": 0.41},
-    {"s": "NVDA", "px": 229.72, "chg": -0.33},
-    {"s": "AVGO", "px": 362.69, "chg": 0.71},
-    {"s": "TSM", "px": 450.04, "chg": -1.74},
-    {"s": "MSFT", "px": 534.97, "chg": 2.37},
-    {"s": "GOOGL", "px": 354.34, "chg": 1.74},
-    {"s": "PLTR", "px": 205.66, "chg": 3.46},
-    {"s": "BTC", "px": 82673.59, "chg": 2.21}
+    {"s": "SPX", "px": 7811.09, "chg": 0.59},
+    {"s": "NDX", "px": 30878.12, "chg": 0.5},
+    {"s": "NVDA", "px": 229.65, "chg": -0.36},
+    {"s": "AVGO", "px": 362.5, "chg": 0.65},
+    {"s": "TSM", "px": 451.13, "chg": -1.5},
+    {"s": "MSFT", "px": 534.27, "chg": 2.23},
+    {"s": "GOOGL", "px": 351.6, "chg": 0.95},
+    {"s": "PLTR", "px": 205.88, "chg": 3.57},
+    {"s": "BTC", "px": 82574.19, "chg": 1.4}
   ]
 }
