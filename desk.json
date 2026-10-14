@@ -5,97 +5,97 @@
   "url": "https://wookiee-tech-capital.netlify.app",
   "github": "https://github.com/Wookiee2018/wookiee-tech-capital",
   "inception": "2026-09-23T22:56:00+04:00",
-  "updated": "2026-10-13T22:14:00+04:00",
+  "updated": "2026-10-14T16:32:00+04:00",
   "timezone": "Asia/Dubai",
-  "status": "CLOUD LIVE / TUE 22:14 GST AFTERNOON SESSION — NO TRADE. TSM 443 STILL WORKING (~444). IBIT CSP NOT BOUGHT BACK. NO MU. NO LEVERAGE.",
-  "nav": 101281.0,
+  "status": "CLOUD LIVE / WED 16:32 GST PRE-OPEN — NO TRADE. TSM 443 AT LIMIT (~443 PRE). IBIT CSP NOT BOUGHT BACK. NO MU. NO LEVERAGE.",
+  "nav": 101362.0,
   "cash": 50978.01,
-  "deployed": 50303.0,
-  "day_pnl": 561.0,
-  "inception_pnl": 1281.0,
+  "deployed": 50384.0,
+  "day_pnl": 81.0,
+  "inception_pnl": 1362.0,
   "target_nav": 140000,
   "target_is_forecast": false,
   "risk": "AGGRESSIVE CONCENTRATION — my call. No leverage month 1. No MU chase near 1070.",
   "tape": [
     {
       "s": "SPX",
-      "px": 7806.55,
-      "chg": -0.01
+      "px": 7810.0,
+      "chg": 0.06
     },
     {
       "s": "NDX",
-      "px": 30509.78,
-      "chg": -0.51
+      "px": 30550.0,
+      "chg": -0.06
     },
     {
       "s": "NVDA",
-      "px": 227.51,
-      "chg": 0.53
+      "px": 227.50,
+      "chg": -0.45
     },
     {
       "s": "AVGO",
-      "px": 356.43,
-      "chg": 0.48
+      "px": 356.70,
+      "chg": -0.17
     },
     {
       "s": "TSM",
-      "px": 444.34,
-      "chg": 0.00
+      "px": 443.00,
+      "chg": -0.48
     },
     {
       "s": "MSFT",
-      "px": 546.65,
-      "chg": 1.02
+      "px": 546.20,
+      "chg": 0.51
     },
     {
       "s": "GOOGL",
-      "px": 354.55,
-      "chg": 0.52
+      "px": 358.50,
+      "chg": 1.33
     },
     {
       "s": "PLTR",
-      "px": 209.26,
-      "chg": 0.12
+      "px": 208.50,
+      "chg": -0.08
     },
     {
       "s": "BTC",
-      "px": 83128.13,
-      "chg": 0.97
+      "px": 83500.0,
+      "chg": 0.45
     },
     {
       "s": "AMZN",
-      "px": 259.66,
-      "chg": 0.05
+      "px": 259.50,
+      "chg": -0.06
     },
     {
       "s": "ORCL",
-      "px": 143.38,
-      "chg": 4.36
+      "px": 143.40,
+      "chg": 0.01
     },
     {
       "s": "IBIT",
-      "px": 47.03,
+      "px": 47.20,
       "chg": 0.36
     },
     {
       "s": "QQQ",
-      "px": 743.30,
-      "chg": -0.37
+      "px": 743.00,
+      "chg": -0.04
     },
     {
       "s": "SPY",
-      "px": 777.89,
-      "chg": -0.03
+      "px": 778.20,
+      "chg": 0.04
     },
     {
       "s": "SGOV",
       "px": 100.53,
-      "chg": 0.01
+      "chg": 0.00
     },
     {
       "s": "MU",
-      "px": 942.12,
-      "chg": -4.74
+      "px": 950.00,
+      "chg": -0.33
     }
   ],
   "book": [
@@ -112,64 +112,64 @@
       "name": "Nvidia",
       "target": 12000,
       "filled": 6109.0,
-      "px": 227.51,
-      "status": "PARTIAL ~6.1k / 12k — ~227.51. Still under 231.65 spread breakeven, under the 240 short strike. Remainder stays the Oct16 225/240 spread. Not lifting stock."
+      "px": 227.50,
+      "status": "PARTIAL ~6.1k / 12k — ~227.50. Still under 231.65 spread breakeven, under the 240 short strike. Remainder stays the Oct16 225/240 spread. Not lifting stock."
     },
     {
       "ticker": "AVGO",
       "name": "Broadcom",
       "target": 8000,
-      "filled": 8237.0,
-      "px": 356.43,
-      "status": "FULL — ~356.43. Through 350.38 avg. Sleeve stays full. No chase add."
+      "filled": 8243.0,
+      "px": 356.70,
+      "status": "FULL — ~356.70. Through 350.38 avg. Sleeve stays full. No chase add."
     },
     {
       "ticker": "GOOGL",
       "name": "Alphabet",
       "target": 7000,
-      "filled": 7288.0,
-      "px": 354.55,
-      "status": "FULL — ~354.55. Through 338.72 avg. Hold. No chase add."
+      "filled": 7369.0,
+      "px": 358.50,
+      "status": "FULL — ~358.50. Through 338.72 avg. Hold. No chase add."
     },
     {
       "ticker": "TSM",
       "name": "TSMC ADR",
       "target": 8000,
       "filled": 0,
-      "px": 444.34,
-      "status": "LIMIT 443 STILL OPEN — ~444.34. About 1.3 handles away. Earnings 15 Oct before the open. No amend. No cancel. Not paying up."
+      "px": 443.00,
+      "status": "LIMIT 443 STILL OPEN — ~443 PRE. At the limit. Earnings 15 Oct before the open. No amend. No cancel. Not paying up."
     },
     {
       "ticker": "MSFT",
       "name": "Microsoft",
       "target": 5000,
-      "filled": 5444.0,
-      "px": 546.65,
-      "status": "FILLED @ 497.50 — ~546.65. Still green vs cost. No add."
+      "filled": 5440.0,
+      "px": 546.20,
+      "status": "FILLED @ 497.50 — ~546.20. Still green vs cost. No add."
     },
     {
       "ticker": "AMZN",
       "name": "Amazon",
       "target": 4000,
-      "filled": 4189.0,
-      "px": 259.66,
-      "status": "FILLED 16.1 sh @ 248.50 — ~259.66. Still green vs cost. No add."
+      "filled": 4186.0,
+      "px": 259.50,
+      "status": "FILLED 16.1 sh @ 248.50 — ~259.50. Still green vs cost. No add."
     },
     {
       "ticker": "ORCL",
       "name": "Oracle",
       "target": 3000,
       "filled": 2964.0,
-      "px": 143.38,
-      "status": "FILLED 20.9 sh @ 143.50 — ~143.38. Through cost now. Hold, no add, no cut."
+      "px": 143.40,
+      "status": "FILLED 20.9 sh @ 143.50 — ~143.40. Through cost. Hold, no add, no cut."
     },
     {
       "ticker": "IBIT",
       "name": "Bitcoin ETF",
       "target": 0,
       "filled": 0,
-      "px": 47.03,
-      "status": "STOCK OFF — Oct16 47 CSP still open. ~47.03, slightly OTM vs the 47 strike. BTC ~83128. Do not buy back. No stock lift."
+      "px": 47.20,
+      "status": "STOCK OFF — Oct16 47 CSP still open. ~47.20, slightly OTM vs the 47 strike. BTC ~83500. Do not buy back. No stock lift."
     },
     {
       "ticker": "CASH",
@@ -184,16 +184,16 @@
       "name": "Palantir",
       "target": 0,
       "filled": 0,
-      "px": 209.26,
-      "status": "NO TRADE — ~209.26. Not chasing. No new ticket."
+      "px": 208.50,
+      "status": "NO TRADE — ~208.50. Not chasing. No new ticket."
     },
     {
       "ticker": "MU",
       "name": "Micron",
       "target": 0,
       "filled": 0,
-      "px": 942.12,
-      "status": "NO TRADE — standing rule, do not chase MU near 1070. ~942. A dip does not lift the ban."
+      "px": 950.00,
+      "status": "NO TRADE — standing rule, do not chase MU near 1070. ~950. A dip does not lift the ban."
     },
     {
       "ticker": "OPT",
@@ -206,94 +206,49 @@
   ],
   "tickets": [
     {
-      "id": "T-554",
+      "id": "T-559",
       "side": "NO TRADE",
       "ticker": "session",
       "notional": 0,
       "type": "NO-TRADE",
-      "when": "13 Oct 14:14 ET / 22:14 GST",
-      "reason": "Tuesday afternoon session. SPX ~7807, NDX ~30510. Working TSM 443 only (~444). No lift, no amend, no cancel, no new names. Cash stays dry powder. No leverage month 1."
+      "when": "14 Oct 08:32 ET / 16:32 GST",
+      "reason": "Wednesday pre-open. SPX futures ~+0.2%, NDX flat/soft. Working TSM 443 only (at ~443 pre). No lift, no amend, no cancel, no new names. Cash stays dry powder. No leverage month 1."
     },
     {
-      "id": "T-555",
+      "id": "T-560",
       "side": "NO TRADE",
       "ticker": "MU",
       "notional": 0,
       "type": "SCAN REJECT",
-      "when": "13 Oct 14:14 ET / 22:14 GST",
-      "reason": "MU ~942. Standing rule: do not chase MU near 1070. A dip does not lift the ban."
+      "when": "14 Oct 08:32 ET / 16:32 GST",
+      "reason": "MU ~950. Standing rule: do not chase MU near 1070. A dip does not lift the ban."
     },
     {
-      "id": "T-556",
+      "id": "T-561",
       "side": "NO TRADE",
       "ticker": "PLTR",
       "notional": 0,
       "type": "SCAN REJECT",
-      "when": "13 Oct 14:14 ET / 22:14 GST",
-      "reason": "PLTR ~209.26. Not chasing."
+      "when": "14 Oct 08:32 ET / 16:32 GST",
+      "reason": "PLTR ~208.50. Not chasing."
     },
     {
-      "id": "T-557",
+      "id": "T-562",
       "side": "NO TRADE",
       "ticker": "NVDA add",
       "notional": 0,
       "type": "NO LIFT",
-      "when": "13 Oct 14:14 ET / 22:14 GST",
-      "reason": "NVDA ~227.51. Under spread breakeven 231.65, still under the 240 short strike. First clip stays. Second clip remains the 225/240 call spread. No stock lift."
+      "when": "14 Oct 08:32 ET / 16:32 GST",
+      "reason": "NVDA ~227.50. Under spread breakeven 231.65, still under the 240 short strike. First clip stays. Second clip remains the 225/240 call spread. No stock lift."
     },
     {
-      "id": "T-558",
+      "id": "T-563",
       "side": "HOLD",
       "ticker": "IBIT CSP",
       "notional": 0,
       "type": "NO AMEND",
-      "when": "13 Oct 14:14 ET / 22:14 GST",
-      "reason": "BTC ~83128. IBIT ~47.03, slightly OTM vs the 47 strike. Do not buy back. No stock lift. Collateral already reserved."
-    },
-    {
-      "id": "T-549",
-      "side": "NO TRADE",
-      "ticker": "session",
-      "notional": 0,
-      "type": "NO-TRADE",
-      "when": "13 Oct 13:16 ET / 21:16 GST",
-      "reason": "Tuesday mid-session. SPX ~7799, NDX ~30559. Working TSM 443 only (~444). No lift, no amend, no cancel, no new names. Cash stays dry powder. No leverage month 1."
-    },
-    {
-      "id": "T-550",
-      "side": "NO TRADE",
-      "ticker": "MU",
-      "notional": 0,
-      "type": "SCAN REJECT",
-      "when": "13 Oct 13:16 ET / 21:16 GST",
-      "reason": "MU ~940. Standing rule: do not chase MU near 1070. A dip does not lift the ban."
-    },
-    {
-      "id": "T-551",
-      "side": "NO TRADE",
-      "ticker": "PLTR",
-      "notional": 0,
-      "type": "SCAN REJECT",
-      "when": "13 Oct 13:16 ET / 21:16 GST",
-      "reason": "PLTR ~206.76. Not chasing."
-    },
-    {
-      "id": "T-552",
-      "side": "NO TRADE",
-      "ticker": "NVDA add",
-      "notional": 0,
-      "type": "NO LIFT",
-      "when": "13 Oct 13:16 ET / 21:16 GST",
-      "reason": "NVDA ~227.39. Under spread breakeven 231.65, still under the 240 short strike. First clip stays. Second clip remains the 225/240 call spread. No stock lift."
-    },
-    {
-      "id": "T-553",
-      "side": "HOLD",
-      "ticker": "IBIT CSP",
-      "notional": 0,
-      "type": "NO AMEND",
-      "when": "13 Oct 13:16 ET / 21:16 GST",
-      "reason": "BTC ~83083. IBIT ~47.19, slightly OTM vs the 47 strike. Do not buy back. No stock lift. Collateral already reserved."
+      "when": "14 Oct 08:32 ET / 16:32 GST",
+      "reason": "BTC ~83500. IBIT ~47.20, slightly OTM vs the 47 strike. Do not buy back. No stock lift. Collateral already reserved."
     },
     {
       "id": "T-228",
@@ -302,7 +257,7 @@
       "notional": 8000,
       "type": "LIMIT 443 STILL OPEN",
       "when": "working, GTC paper",
-      "reason": "~444.34, about 1.3 handles away. Earnings 15 Oct before the open. Not paying up. No amend. No cancel."
+      "reason": "~443 PRE, at the limit. Earnings 15 Oct before the open. Not paying up. No amend. No cancel."
     },
     {
       "id": "O-SPREAD-1",
@@ -311,7 +266,7 @@
       "notional": 665,
       "type": "OPEN",
       "when": "until 16 Oct",
-      "reason": "NVDA ~227.51. Above the long strike, under 231.65 breakeven, under the 240 short strike. No amend."
+      "reason": "NVDA ~227.50. Above the long strike, under 231.65 breakeven, under the 240 short strike. No amend."
     },
     {
       "id": "O-HEDGE-1",
@@ -329,7 +284,7 @@
       "notional": 107,
       "type": "OPEN",
       "when": "until 16 Oct",
-      "reason": "IBIT ~47.03 / BTC ~83128. CSP is the way we sit BTC. Slightly OTM. Do not buy back."
+      "reason": "IBIT ~47.20 / BTC ~83500. CSP is the way we sit BTC. Slightly OTM. Do not buy back."
     }
   ],
   "options": [
@@ -360,6 +315,18 @@
   ],
   "log": [
     {
+      "t": "2026-10-14T16:32:00+04:00",
+      "tag": "SCAN",
+      "title": "Wednesday 16:32 GST pre-open: no-trade, TSM 443 at limit",
+      "body": "Dubai 16:32 GST / 08:32 ET. Pre-open. Futures mixed (SPX +0.2%, NDX soft). TSM 443 still open and at the pre print (~443). Earnings 15 Oct before the open. No amend, no cancel. No trade MU near 950. No trade PLTR. No lift NVDA stock. No chase AVGO. IBIT CSP not bought back (still slightly OTM). No new names. No leverage month 1. Paper only."
+    },
+    {
+      "t": "2026-10-14T16:32:00+04:00",
+      "tag": "MARK",
+      "title": "Wednesday 16:32 stamp — NAV $101,362",
+      "body": "NAV $101,362. Modest marks higher mainly on GOOGL. Inception +$1,362. Options overlay held at entry. $140k is an ambition, not a forecast. Not a 40% promise."
+    },
+    {
       "t": "2026-10-13T22:14:00+04:00",
       "tag": "SCAN",
       "title": "Tuesday 22:14 GST afternoon: no-trade, TSM 443 working",
@@ -370,30 +337,6 @@
       "tag": "MARK",
       "title": "Tuesday 22:14 stamp — NAV $101,281",
       "body": "NAV $101,281. Marks higher on ORCL/MSFT/AVGO/NVDA. Inception +$1,281. Options overlay held at entry. $140k is an ambition, not a forecast. Not a 40% promise."
-    },
-    {
-      "t": "2026-10-13T21:16:00+04:00",
-      "tag": "SCAN",
-      "title": "Tuesday 21:16 GST mid-session: no-trade, TSM 443 working",
-      "body": "Dubai 21:16 GST / 13:16 ET. Mid-session. Tape mixed, modest recovery in some tech. SPX ~7799, NDX ~30559. TSM 443 still open, ~444, about 1.3 handles away, no amend, no cancel. Earnings 15 Oct before the open. No trade MU near 940. No trade PLTR. No lift NVDA stock. No chase AVGO. IBIT CSP not bought back (now slightly OTM). No new names. No leverage month 1. Paper only."
-    },
-    {
-      "t": "2026-10-13T21:16:00+04:00",
-      "tag": "MARK",
-      "title": "Tuesday 21:16 stamp — NAV $101,232",
-      "body": "NAV $101,232. Modest marks higher on NVDA/AVGO/ORCL. Inception +$1,232. Options overlay held at entry. $140k is an ambition, not a forecast. Not a 40% promise."
-    },
-    {
-      "t": "2026-10-13T17:31:00+04:00",
-      "tag": "SCAN",
-      "title": "Tuesday 17:31 GST opening: no-trade, TSM 443 working",
-      "body": "Dubai 17:31 GST / 09:31 ET. Opening. Tape mixed, semis soft premarket. SPX ~7807, NDX ~30665. TSM 443 still open, pre ~440, about 3 handles away, no amend, no cancel. Earnings 15 Oct before the open. No trade MU near 940. No trade PLTR. No lift NVDA stock. No chase AVGO. IBIT CSP not bought back. No new names. No leverage month 1. Paper only."
-    },
-    {
-      "t": "2026-10-13T17:31:00+04:00",
-      "tag": "MARK",
-      "title": "Tuesday 17:31 stamp — NAV $100,720",
-      "body": "NAV $100,720. Soft premarket marks on semis. Inception +$720. Options overlay held at entry. $140k is an ambition, not a forecast. Not a 40% promise."
     }
   ]
 }
